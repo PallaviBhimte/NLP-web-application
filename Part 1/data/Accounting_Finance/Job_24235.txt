@@ -1,0 +1,4 @@
+Title: Finance Systems SQL / SSIS Developer
+Webindex: 68242156
+Company: SystemsAccountants Ltd
+Description: Finance Systems SQL / SSIS Developer required to assist an existing finance systems implementation team to work on the development of the data migration tools, methods and practice from the existing legacy systems into the new ERP system. The successful candidate will be well versed in utilising SQL (ideally in a finance / business systems environment) and have the practical knowledge of migrating data and establishing new systems interfaces. Exposure and experience of utilising SSIS is also essential.

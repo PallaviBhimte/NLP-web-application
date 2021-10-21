@@ -1,0 +1,4 @@
+Title: Test Manager  Ago Trading
+Webindex: 68076876
+Company: Astbury Marsden
+Description: The ideal candidate will have experience of operating in a Front Office environment as a Test Manager, have worked with offshore teams, ideally some ETrading and Algo experience, FIX messaging and some Black Box testing.

@@ -1,0 +1,4 @@
+Title: C Microsoft Dynamics Developer
+Webindex: 68014212
+Company: Aston Carter Ltd
+Description: My client is a major hedge fund in London with approximately US$**** billion under management making it one of Europe s largest alternative asset investment managers. The fund has a proven track record with over **** people working globally. Key skills .NET, C (WinForms, Windows Services and Webservices)XML, XSDMS SQL Server: RDBMS, SSRSExcel VBAIntegrating **** party vendor applicationsAny experience with CRM integration would be a great advantage For more information contact hthandiastoncarter.co.uk

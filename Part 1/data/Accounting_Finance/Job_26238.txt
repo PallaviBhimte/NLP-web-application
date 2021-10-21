@@ -1,0 +1,4 @@
+Title: Senior Developer  SQL, C, C++  Fixed Income
+Webindex: 69088196
+Company: DCM Select
+Description: Market leading buy side firm is looking to hire an experienced developer for its front office fixed income group. You will be involved in aspects of business analysis, so should feel comfortable facing off to portfolio managers and traders, and will then have full lifecycle development responsibility of new applications. The primary technical skill required is SQL, so you must possess excellent knowledge of this including stored procedures, triggers etc. You should also possess some working knowledge of C++ and / or C. From a business perspective you should have knowledge of Fixed Income products. Ideally this would have been gained within a Hedge Fund, portfolio management or asset management firm. For further information please email james.andersendcmselect.com

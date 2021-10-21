@@ -1,0 +1,4 @@
+Title: PHP, Lamp IT Developer
+Webindex: 70757738
+Company: Diamond Resourcing
+Description: The Company My Client is a Global Seminar and Events company specialising in the Financial Services Sector. The Role You will be a part of this growing Team within its IT development team reporting to the head of technology you will be responsible for the migration of and existing Perlbased CRM system across to a salesforce implementation. There are also a number of other projects involving the ecommerce and subscription side of things to work on . Role Summary Full Time Role, 9am 6pm with usual breaks. Required Skills Mod Perl Experience with LAMP LINUX, Apache, MySQL, PHP, Object Orientated PHP Code Igniter Framework SSH interfaces SVN Please apply for this role to be considered for interviews this week and next week

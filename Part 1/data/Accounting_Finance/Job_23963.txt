@@ -1,0 +1,4 @@
+Title: Middle Office Analyst FTC
+Webindex: 68063311
+Company: Austin Andrew Ltd
+Description: Middle Office Analyst Commodities/Securitisation/Treasury/Fixed Income/FX sale Our client, a leading European bank operating in over 50 countries currently seeks a Middle Office Analyst to join their corporate, investment management and financial services arm. The successful candidate will be responsible for providing a solid control framework for the CMD, Securitisation Fixed Income and FX business lines. The role will report into the Markets Middle Office Manager. Responsibilities will include:  Daily reconciliation reports for a number of trade controls across the various asset classes supported by the team  MIS reporting  Preparing and sending out valuations for Fixed Income Sales  Validate new FX derivative trades through Murex.  Commodities calendar maintenance and regular checking of all CMD calendars within SOPHIS The candidate must have experience with SOPHIS.

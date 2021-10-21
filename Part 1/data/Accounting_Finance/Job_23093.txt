@@ -1,0 +1,4 @@
+Title: Java Developer  Core Java, Multithreading, Agile
+Webindex: 66699550
+Company: DCM Select
+Description: This leading Investment Bank is looking for an experienced Java Developer to join a team responsible for the development of an Equity Derivatives Risk platform. The successful individual will focus on the development of highly distributed realtime messaging software and it's delivery to the front office. You must have:a strong background as a server side Java Developerexperience of multithreaded application developmentexperience of Agile test driven development Desirable skills include:familiarity with caching technologies (Coherence, GemFire etc)Investment banking knowledgeknowledge of KDB and JVM optimisation For further information please call James Andersen on **** **** **** or email james.andersendcmselect.com

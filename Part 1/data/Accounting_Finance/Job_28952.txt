@@ -1,0 +1,4 @@
+Title: System Accountant
+Webindex: 71748943
+Company: Austin Fraser
+Description: Austin Fraser are currently looking for a System Accountant. You will be an experienced systems accountant with configuration knowledge of SAP and Hyperion Financial Management. Experience in development updates to relevant configuration tables, reconciliation between FI & CO/BI in SAP, data load & reconciliation of data between SAP and HFM and other management reporting tools. Support to the finance team in producing appropriate analytics from either SAP FICO/BI or HFM and liaison with IT to develop the system as required. Ownership of SOX related system based activities

@@ -1,0 +1,4 @@
+Title: Labview Test Development Engineer
+Webindex: 65687744
+Company: OCC Computer Personnel/RI
+Description: Test Development Engineer with NI Labview experience needed.&nbsp My client would ideally like someone with experience of Teradyne Catalyst, Teradyne UltraFlex or National Instruments testing experience however this is not essential. My client would be keen to find someone with Rasco S**** handler skills. You will have experience and development experience on production mixedsignal IC Testers, schematic entry, PCB Layout, mixed signal test techniques, data analysis software, bench test equipment, advanced audio and / or power management test techniques, data sheets and a degree in electonic engineering or similar.

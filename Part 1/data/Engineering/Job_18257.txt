@@ -1,0 +1,4 @@
+Title: Cisco Data Centre
+Webindex: 69537646
+Company: IC Software
+Description: Cisco Data Centre Engineer A leading Technology company based in London are looking for a Cisco Data Centre Network Designer. This is a wide ranging role including activities from design review and validation, through to factory acceptance testing and system integration. Skills:  In depth understanding of network protocols, particularly BGP, OSPF and switching  Cisco Nexus ****K series switches  Cisco UCS platform, ACE and ASA Firewalls  Previous data centre design and operations experience including SAN support and Boot from SAN  Detailed knowledge of server O/S and virtualisation including experience with VMware Apply with an up to date CV to be considered Key Words: Cisco / BGP / OSPF / Network Design / CCNP / CCIE / CCDP / SAN / VMware / Nexus / Data Centre, UK, London IC Software  your first contact for Embedded, DSP & Software jobs.

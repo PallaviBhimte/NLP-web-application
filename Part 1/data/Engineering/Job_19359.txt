@@ -1,0 +1,4 @@
+Title: Control Software Engineer
+Webindex: 70105250
+Company: Hartland Recruitment Advertising Limite
+Description: Design of PLC control software for an automated machinery manufacturer with a huge amount of orders. Mainly Allen Bradley / Rockwell Automation PLC programming for machinery and conveyor automation, with any Siemens S**** PLC programming experience being a bonus. Networking, HMI s, Wonderware or similar SCADA experience could be useful too. After design, you ll join up with a multiskilled team to commission your software for the newly installed systems in the UK and sometimes for short periods overseas. Several phases of expansion are planned here across the next 5 years, with the hope that career opportunities will be generated for this Software Engineer and other members of the team. If you d like to join a team designing cutting edge automated systems looking forward to tomorrow, then please send me your CV.

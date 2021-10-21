@@ -1,0 +1,4 @@
+Title: Junior Front End Designer
+Webindex: 66584160
+Company: Matchtech Group plc.
+Description: Introduction This role is to work in a team of 3 who produce business reporting for a variety of users in a global high tech company. Important Experience of UI design in a commercial environment. The Job The rest of the team will manage data and write reports. Your job will be to improve the look and feel by creative design using whichever tools you are used to using. You need to take the current UI design and make it look like top websites. The reports themselves are created within Visual Studio so you need some knowledge of SQL but primarily need a track record of front end design for business use, able to provide examples of your previous work.

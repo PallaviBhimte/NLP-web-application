@@ -1,0 +1,4 @@
+Title: CAD/CAM Offline Programmer
+Webindex: 68237672
+Company: ambitek
+Description: Our client is a large sub contract machine shop within the heavy engineering sector. They are now looking to recruit an Offline Programmer to join their expanding team. The candidate must be familiar with offline programming and have good knowledge of CAD/CAM especially Edgecam and Solidedge. The candidate will be expected to work to microns. You will be expected to read and interpret drawings, set up new jobs, load modify cnc programmes as well as designing and manufacturing fixtures.

@@ -1,0 +1,4 @@
+Title: CMM Coordinator
+Webindex: 71765020
+Company: Neville Gee Recruitment
+Description: Neville Gee are acting as a recruitment agency on behalf of an engineering client based in East Lancashire. They are looking to recruit a CMM programmer whose main role would be to coordinate all CMM activities. Duties;  Writing, running and managing CMM programmes for new/existing products, including tooling fixtures  Undertaking routine audits of checking fixtures within production areas (none CMM based activity).  Support the daytoday running of the Quality Department, when required Person Specification;  Experienced in the programming and operation of CNC CMM’s  Able to work with CAD data  Basic understanding of the PPAP process  Experience in ISIR development and completion.  Able to read and interpret engineering drawings  Good organisational and planning skills  Fully PC literate with Microsoft Office.

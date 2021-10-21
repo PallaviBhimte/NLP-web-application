@@ -1,0 +1,4 @@
+Title: Senior Test & Validation Engineer
+Webindex: 69052846
+Company: European Recruitment Ltd
+Description: WHAT will be the main responsibilities for this Senior IOT position?  Leading GERAN feature test teams  Preparing integration test plans and presenting test results.  Setup and maintenance of automation test platforms  Attend the occasional offsite Inter  Operability Test programme (IOT)  Aid in the replication of lab or field based test scenarios WHAT are the required skills & experience?  Experience in team leadership.  Experience in developing test cases upon the Anite Stand Alone Test  Have knowledge of ****GPP GERAN specifications (MS to N/W interfaces, MS conformance specs etc.).  Have knowledge of the mobile certification process (GCF or PTCRB).  Ability to adopt new testing techniques and tools in a timely fashion.  Knowledge of programming in C++ and PERL.

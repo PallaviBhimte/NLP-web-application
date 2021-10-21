@@ -1,0 +1,4 @@
+Title: Dynamics AX & Vizual HR Business Analyst
+Webindex: 71460467
+Company: FINTEC recruit Ltd
+Description: FINTEC Recruit is seeking a Dynamics AX & Vizual HR Business Analyst. Our client is an international engineering support organisation working in marine, oil and gas, nuclear, rail, defence and renewable sectors. Responsibilities To implement, enhance and provide ongoing support of the current AX and HR systems and related reporting tools. Liaising with endusers and management in order to determine business requirements. Specification and delivery of limited modifications and enhancements. System testing including specifying test scripts and coordination of enduser acceptance testing. Local coordination of upgrades. Coordinating suppliers and the user base. Development of new business information and reporting functionality. Technical and operational end user support. Contribute to the further development of systems.

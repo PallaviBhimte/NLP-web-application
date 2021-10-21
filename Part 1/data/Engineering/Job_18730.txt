@@ -1,0 +1,4 @@
+Title: Senior FPGA Design Engineer  Video
+Webindex: 69745509
+Company: IC 3E LLP
+Description: Senior FPGA Design Engineer  Video The Senior FPGA Design Engineer will be based in Bristol and have a fantastic opportunity to be involved in industry leading video processing technology for video, TV and the film industry. Responsibilities will include FPGA Design with VHDL or Verilog with a focus on high speed Technologies for Video, including MPEG, HDTV, DVD/DVB, PAL, CCD Imaging, Mobile (GSM/CDMA), USB, Ethernet, PCI and Memeory. The successful Senior FPGA Design Engineer will have a good relevant Degree, with a proven background and interest in FPGA Design, preferably for Video Technology. Other skills of interest include VHDL, Verilog, RTL, C/C++ and DSP. IC ****e  your first contact for electronics and engineering jobs.

@@ -1,0 +1,4 @@
+Title: Responsible CI Engineer
+Webindex: 51099243
+Company: Rullion Engineering Ltd
+Description: Our client is a large Manufacturing Facility based in Risley that specialise in the Nuclear and Defence industries. They are looking to recruit a Responsible Engineer within the C&I Department to work flexibly to undertake a variety of Control and Instrumentation design activities associated with the design, test and Installation of High Integrity Mechanical Plant and Systems. The successful candidate will be required to prepare designs, calculations, reports, tender proposals and estimates and recommendations for approval within defined time, quality and cost parameters. The candidate will also work closely to assist the bid team and liaise with clients. The ideal candidate will have experience in the Nuclear Industry, and have worked and managed Design Teams

@@ -1,0 +1,4 @@
+Title: FPGA Design Engineer  Video Processing / IP
+Webindex: 70162253
+Company: IC 3E LLP
+Description: Based in the Home Counties the FPGA Design Engineer will be joining a multimedia group to working on the development of FPGA s for Multimedia and IP based Technology, including Video Processing Systems and Imaging technology. The FPGA Design Engineer will have the opportunity to take customer requirements and create real products to meet their needs. The successful candidate will have a good relevant degree with skills in FPGA Design using VHDL or Verilog with a knowledge of developing video processing technology. Also of interest will be the ability to program using C/C++ or Matlab. Key skills in FPGA Design using VHDL or Verilog with a knowledge of developing video processing technology. Also of interest will be the ability to program using C/C++ or Matlab. IC ****e  your first contact for electronics and engineering jobs.

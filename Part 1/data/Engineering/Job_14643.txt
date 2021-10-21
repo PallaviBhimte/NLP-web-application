@@ -1,0 +1,4 @@
+Title: iOS / Android Developer
+Webindex: 62124823
+Company: Technical Futures Ltd
+Description: An exciting new opportunity with a leading organisiation exists for a Senior / Principal / Consultant level engineer to develop iOS / Android Applications. You will have significant experience with iOS / Andoid and / or HTML5, STB Development, Interfacing between companion devices (STB / Databases / Headends), Porting, C / C++ programming highly desirable. Other desirable knowledge includes DVB, XSI, DSS Digital TV Standards, Linux Development, ClearCase, RTOS, ObjectiveC, UI Design and System Architecture / Design. Excellent benefits and package await the successful applicant. ios android html5

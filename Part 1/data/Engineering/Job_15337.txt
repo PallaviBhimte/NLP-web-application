@@ -1,0 +1,4 @@
+Title: Controls System Engineer
+Webindex: 66894197
+Company: Catfoss Recruitment Ltd
+Description: Allen Bradley Control systems engineer Senior engineer experience of the following Allen Bradley PLC setup and configuration through RS Logix Citect Scada system setup and configuration  from version **** Familiarity or the ability to perform MS SQL Server 2003 installation, configuration and development using SQL s, RSlogix, SCADA, SQL. The main responsibility is to investigate data anomalies via interrogating their SQL systems, RSLogix & AB systems and deliver solutions. Additional responsibility will be to assist in the system upgrades of site based scada pc/servers

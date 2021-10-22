@@ -1,0 +1,4 @@
+Title: Web Developer/HTML/CSS/SQL/PHP/MVC/API/SDK/UNIX/Linux
+Webindex: 70245031
+Company: HW Search & Selection
+Description: Web Developer/HTML/CSS/SQL/PHP/MVC/API/SDK/UNIX/Linux Our client who are a digital creative agency are looking for a Senior Web Developer to join their team in London. The successful Web Developer will need to possess solid experience within a similar role and possess the following skills: **** years commercial experience within a developer role Expert knowledge hand coding standardscompliant, semantic HTML CSS, and good knowledge of MTML5 CSS3 Confident using Adobe Photoshop 3 years experience working with OO PHP SQL using at least one PHP MVC framework Strong JavaScript skills Experience integrating with third party APIs SDKs Experience working with source control systems Good UNIX Linux sys admin skills This is a great opportunity to join a successful company going through unprecedented growth.

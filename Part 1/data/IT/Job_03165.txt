@@ -1,0 +1,4 @@
+Title: Automated Tester
+Webindex: 68359075
+Company: ReThink Recruitment
+Description: Automated Tester  London My client is a leading private healthcare software vendor based in Waterloo, central London. An Automated Tester (with some manual testing experience) is required to play an active role automating test workflows using Selenium **** and to work in an Agile planning process, defining Test Cases from written requirments and User Stories. Candidates applying should have strong automated and manual testing skills, Java experience and ideally at least 1years exposure to Selenium. Email your CV to me for immediate consideration. Salary up to **** We are acting as an Employment Agency This job was originally posted as www.cwjobs.co.uk/JobSeeking/AutomatedTester_job****

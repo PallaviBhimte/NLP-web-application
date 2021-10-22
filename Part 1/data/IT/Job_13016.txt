@@ -1,0 +1,4 @@
+Title: Front End Developer/User Experience Developer  Halifax
+Webindex: 72161103
+Company: The Bridge Ltd
+Description: Front End Developer  (West Yorkshire) HTML, JavaScript, UX, UI, Agile, Development Working with a leading organisation based in West Yorkshire we are looking to recruit a Front End Developer to be part of the R D team using HTML5/JavaScript skills to create detailed, elegant and engaging interactive applications. We are looking for candidates who do have commercial experience in a similar role, someone who can set standards and best practice for development and ideally has worked in an Agile environment. Technically we need people who can code OO JavaScript (JQuery, MVC framework). This is a fantastic opportunity to work in a fun environment using the latest technologies developing interactive applications that are used on numerous platforms (including iOS). Please apply in Word if interested.

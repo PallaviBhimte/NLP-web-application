@@ -1,0 +1,4 @@
+Title: C Net Developer (with Xamarin)
+Webindex: 68805847
+Company: Connections Recruitment Limited
+Description: C .Net Developer (with Xamarin), Buckinghamshire, ****pd High Wycombe, Amersham, Buckinghamshire Are you ready to take on a contract development role which allows you to put your stamp on a product? My client is one of the leading .Net Software houses in their field. They are a strong presence in their market place, winning new clients every week. They have their product selling well and would like to expand their .Net development team to build on existing mobile applications. They are currently using Xamarin to convert C to Android and iOS apps. We are looking for candidates that have used this or a similar technology before. Key skills C Xamarin (C for Android iPhone) .NET **** **** 2.0  MySQL Thread Safe programming  Agile Connections Recruitment Limited is acting as an Employment Business in relation to this vacancy.

@@ -1,0 +1,4 @@
+Title: PHP Develper / Drupal / Brighton / Sussex
+Webindex: 71685115
+Company: RDF Group Limited
+Description: PHP Develper / Drupal / Brighton / Sussex We are looking for an experienced developer to join a team embarking on an exciting project for a leading UK company. The aim is to convert an existing PHP website into a Drupal powered website. This is a hightraffic and business critical eCommerce website, so reliability, performance and scalability are key elements of the work. Required Skills Strong experience with Drupal **** (configuration, content, integration, custom modules) Knowledge of common Drupal modules, such as Panels, Views, CKEditor, IMCE and others Strong PHP **** development LAMP stack Please send your CV NOW

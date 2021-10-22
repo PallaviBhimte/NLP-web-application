@@ -1,0 +1,4 @@
+Title: BPM Leader
+Webindex: 71760550
+Company: I.T. Skillfinder
+Description: Role : BPM Lead Developer Location : Denmark Contract period: 3 Months (it may be extended) Job Description: The BPM Developer implements the BPM processes and contributes with strong handson knowledge of the BPM platform selected/envisioned for the Workstream. The BPM Developer will work closely with UI and Service developers within and outside the team to integrate the process with other components. Required Skills: A strong background on the BPM platform. Java and JEE background and good knowledge of development methodologies and tools. Able to work closely with other team members in translating requirements and architectural designs into workflow. Knowledge and experience of the software development lifecycle. This job was originally posted as www.cwjobs.co.uk/JobSeeking/BPMLeader_job****

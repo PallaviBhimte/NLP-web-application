@@ -1,0 +1,4 @@
+Title: C++/STL/Boost Developer  Banking  Gaming
+Webindex: 68626929
+Company: Stott and May
+Description: C++ Expert skilled with STL and Boost required to join a greenfield Risk programme within an Investment Bank You will join an existing mixed industry team who focus on advanced core C++ development work, utilising technologies such as STL and Boost. The work is highly complex low latency development that will see you involved in some of the banks most interesting programming problems. The team is small, but focused; and the current technologists all come from mixed industries such as Gaming and Ecommerce. This is an AVP level role that will pay up to the **** before bonus and package. Skills: C++, Linux/Unix STL BOOST Low latency development experience

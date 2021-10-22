@@ -1,0 +1,4 @@
+Title: Server Support Engineer/MS Lync
+Webindex: 69041481
+Company: Latcom Ltd
+Description: Senior Server Engineer role based in Leicester. Job Role: The successful candidate will be responsible of designing, developing and supporting systems within a Large Organisation, covering technologies relevant to Unified Communications. Skills: The ideal candidate will have previous background in a Server Engineer position. You will have experience of designing and installing stable, resilient and secure systems. Design, development and support of these systems. Any previous experience of supervising an IT Team or Performance management would be desirable. Experience of administration/support of; Windows Server **** Active Directory, Exchange 2010, MS Lync 2010, SAN, Networking and Security applications. If you feel you have the above skill, please send in your CV. This job was originally posted as www.cwjobs.co.uk/JobSeeking/ServerSupportEngineerMSLync_job****

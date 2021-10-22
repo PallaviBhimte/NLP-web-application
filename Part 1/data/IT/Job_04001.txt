@@ -1,0 +1,4 @@
+Title: C Developers  All Levels
+Webindex: 68566229
+Company: London4Jobs
+Description: C Developers  All Levels. My client is a global technology consultancy looking to significantly grow it's software development teams. They have a number of very exciting initiatives scheduled for 2013 and require additional skilled talent to join the business. There are a number of opportunities  from Junior Developer to Senior Developer, so if you have experience of development on the Microsoft technology stack, particularly with C development experience, I would like to talk with you urgently. Additional desirable (but not essential) skills: SQL Server database design Unit Testing (e.g. NUnit) UI implementation, using WPF Agile Unified Modeling Language (UML) Design Patterns

@@ -1,0 +1,4 @@
+Title: Java Architect
+Webindex: 71594673
+Company: FPSG Connect
+Description: Job role: Java Architect Salary: up to ****  **** plus Benefits Location: Glasgow Job Profile FPSG Connects premier client who are a relatively new player within the Scottish Banking community have a rare opening for a Java Architect Company Information You will have the ability to provide effective technical designs for the development of middletier web services and messaging systems, hosted on internal cloud solutions. You will contribute to the definition of the technical strategies and plans, and provide the guidance and support necessary to assure the design and delivery of appropriate solutions are aligned with business objectives. Qualifier Candidates must be eligible to live and work in the UK without restrictions Key Skill Indepth knowledge of Core Java/J****EE Agile Development Methods Design Patterns and Systems architecture Systems Analysis Stakeholder Management

@@ -1,0 +1,4 @@
+Title: NET Developer / Consultant
+Webindex: 68346805
+Company: DawsonHill Limited T/A BIAARS
+Description: My client is a BI Consultancy in Edinburgh and require an experienced .NET Developer to join them on a permanent basis in Edinburgh. For the .NET Developer role you will ideally have the following: .Net MVC 3 guru Application architecture ninja with lots of experience with DI/IoC frameworks, e.g. Spring/Castle/Ninject Experience with nHibernate or entity framework Strong skills in jQuery/CSS3/HTML5 would be beneficial Skills in app security app development Enthusiastic worker, comfortable working with older tech, i.e. .Net ****/web forms To be considered for the .NET Developer  MVC 3 role my client would ideally like to see some demonstrable skills in .NET development by way of a portfolio or past web site. If you think you re the person for the job then please apply for immediate consideration.

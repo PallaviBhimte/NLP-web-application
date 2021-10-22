@@ -1,0 +1,4 @@
+Title: Graduate Business Intelligence
+Webindex: 68496434
+Company: Sentinel IT
+Description: Graduate Business Intelligence Our client is looking for a recent Graduate to join their Business Intelligence team to develop and maintain the application portfolio. Core Responsibilities will include development and maintenance of reports on the Cognos Business Intelligence platform; ensuring all reports are supported; identifying areas for improvement; and support. Key Skills Include: ****: **** in a Technology or Business related degree Excellent Communication skills Other Skills include: BI Reporting Tool  Ideally Cognos (or SSRS/Crystal Reports/Business Objects) C, .Net, TSQL

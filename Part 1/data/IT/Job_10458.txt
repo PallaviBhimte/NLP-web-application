@@ -1,0 +1,4 @@
+Title: Senior PHP / Magento Developer  London
+Webindex: 71305632
+Company: Engage PSG
+Description: Senior PHP / Magento Developer  London, PHP, Magento, Zend, MySQL My client is a well known and highly regarded apparel retailer with ambitious plans both here in the UK and Europe and the US. Headquartered in London they require a senior PHP developer, with at least two big Magento sites behind them. Experience with Varnish, Redis, MySQL, and some Linux admin stuff would be very desirable, and if possible some automated testing with Behat or PHPUnit. Skills Required PHP Magento Zend Framework Varnish MySQL Redis Nginx  FPM APC Desirable BDD with Behat, Mink, etc This job was originally posted as www.cwjobs.co.uk/JobSeeking/SeniorPHPMagentoDeveloperLondon_job****

@@ -1,0 +1,4 @@
+Title: PHP Developer Web Applications
+Webindex: 71856990
+Company: ECS Recruitment Group Ltd 
+Description: An opportunity has arisen for a developer to join an expanding technology company. The ideal candidate will have web application development experience (PHP, MySQL) ideally commercial experience. Knowledge of Windows and Linux platforms is desirable. Other technologies of interest include: AJAX, jQuery, XML. Other desirable skills include experience with cakePHP, NoSQL (nonrelational databases) and experience of using APIs. This is an excellent opportunity for a PHP developer with commercial experience to take the next step in their career. Full JD available upon application.

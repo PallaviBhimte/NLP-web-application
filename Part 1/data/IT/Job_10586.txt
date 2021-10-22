@@ -1,0 +1,4 @@
+Title: Software Engineers (Embedded Secure Comms)
+Webindex: 71306561
+Company: In Parallel Computer Staff Limited
+Description: Our Client is seeking Software Engineers with strong Embedded Comms based application knowledge and any combination of 'C', C++ and C development experience. You will have undertaken the whole Software Lifecycle using UML for design of Embedded systems targeted to a variety of Microprocessors. Knowledge of Linux, VXworks, UNIX and some Hardware understanding would be useful. Ideally you will have experience of IP based Comms Protocols, Secure Comms or perhaps Cyber related security. It would be an advantage if you have current SC Level Clearance but you must at least be eligible and willing to undertake the process. InParallel Computer Staff Ltd is providing services as an Employment Business. This job was originally posted as www.cwjobs.co.uk/JobSeeking/SoftwareEngineersEmbeddedSecureComms_job****

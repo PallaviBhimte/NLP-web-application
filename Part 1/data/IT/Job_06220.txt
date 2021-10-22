@@ -1,0 +1,4 @@
+Title: Solution Designer Security Infrastructure Delivery
+Webindex: 69019128
+Company: Bayfield Recruitment Ltd
+Description: Our client is looking for a Solution Designer (Security Infrastructure Delivery) to lead all designs relating to the implementation of the McAfee product set and the integration into the existing ICT estate. For this position you will need to have knowledge of design and implementation of security solutions, experience with designing and implementing McAfee DLP and HIPS solutions and with TCP/IP, routers, switches, firewall technologies, network architectures, etc. Knowledge of virtualization technologies and of compliance standards and information governance as well as experience of mobile device management are a bonus

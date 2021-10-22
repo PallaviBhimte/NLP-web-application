@@ -1,0 +1,4 @@
+Title: Java Development lead / architect / Web / AJAX / Spring / multithreading
+Webindex: 71901288
+Company: Reed Tech   Docklands Permanent 
+Description: Java Development lead/architect/Web/AJAX/Spring/multithreading is required by award winning digital media / gaming company. You will have strong experience of leading a team of seasoned java professionals to deliver high quality high traffic ajax consumer facing web applications and products (ideally with a transactional or payment functional. You will have a good understanding of relational databases and related java framework such as hibernate and spring. Ideally some gaming or Betting experience with leading and mentoring a high performing team. Experience with would be beneficial but not required. Selenium Source Code analysis tools ie checkstyle Findbugs and PMD Postgres SQL Apache Widget Bing or Google Maps API Reed Specialist Recruitment Limited is an employment agency and employment business.

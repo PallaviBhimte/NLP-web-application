@@ -1,0 +1,4 @@
+Title: Front End Javadcript Developer
+Webindex: 72576790
+Company: Support Services Group 
+Description: Front End/ Javascript Developer Role summary: We are seeking an experienced Javascript Developer and GUI designer to play a key role in the development of nextgeneration online recruitment products using the latest and best technologies and processes available. You must be experienced in developing software as part of a larger programming team with knowledge of programming methodologies and supporting tools. You should be able to take flats of concept designs and develop them into suitable specifications and complete implementation. Experience required: You must have solid experience of developing web applications including Javascript. Experience of any of the following technologies would be an advantage: JQuery library, GIT, testdriven development including Selenium, mobile platform development (e.g. Adobe Air, Titanium, PhoneGaP).

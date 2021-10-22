@@ -1,0 +1,4 @@
+Title: Test Team Leader  Agile, Scrum
+Webindex: 69690186
+Company: Interquest Financial Markets
+Description: Test Team Leader required to join a Solvency II programme within a leading global organisation. As a Test Team Leader, you will be required to assist various projects including web testing, service oriented architecture, data warehousing/enterprise data integration and business process management, and must therefore be well versed in one of these areas. You must have extensive experience working in an Agile Scrum environment, and will have solid BDD/TDD/Fitnesse and Cucumber skills. Strong stakeholder management skills are also essential. Interquest Group PLC is acting as an Employment Business in relation to this vacancy.

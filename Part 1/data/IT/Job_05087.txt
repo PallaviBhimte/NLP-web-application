@@ -1,0 +1,4 @@
+Title: Tester / Developer
+Webindex: 68688415
+Company: BPM Tech
+Description: ROLE: Tester/Developer LOCATION: Northampton SKILLS: C, .Net, ASP.NET, XHTML, XML, CSS, SQL, SQL Server, Automation DESCRIPTION: A unique opportunity has arisen for someone with a development background to assist in automating test processes with my client based in Northampton. This is a genuine hybrid role for someone with good development skills to apply this to automated testing. Your background should include **** or more years of development experience in ntier enterprise application development using C and .NET framework. SQL skills are critical so a minimum of 2 years experience of developing with SQL Server 2000/****/**** is essential. You will also need Front End and Back End testing experience with QA software and configuring this software for use in a business area. This job was originally posted as www.totaljobs.com/JobSeeking/TesterDeveloper_job****

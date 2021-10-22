@@ -1,0 +1,4 @@
+Title: Network Deployment Engineer
+Webindex: 72372796
+Company: Level 
+Description: The NP I Deployment Engineer role is responsible for deploying Transport equipment into the Level3 DWDM/SDH network as part of new network build and network augment. The role will Support Project Sponsors pre development, Configure, Commission Test, write MOP's, Raise GCR's and prepare for Ops Acceptance on those networks and offer advice to other teams. The position requires a sound working knowledge of the Huawei **** transport platform and the U**** NMS, AlcatelLucent DMX, Ciena Core Director, infinera DWDM and the desire to learn new transport technologies as the business evolves. The role also requires the familiarization and use of specific tasking tools, adopting agreed process and procedure as well as working towards agreed internal SLA's.

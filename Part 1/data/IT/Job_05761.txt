@@ -1,0 +1,4 @@
+Title: Web Application Developer  Brighton
+Webindex: 68806998
+Company: Evolution Recruitment Solutions
+Description: Web Application Developer  Brighton. My client is looking to recruit a web application developer. The opening is on the product team to help buil their nextgeneration SEO analytics platform. This has the potential to be an exciting and varied role where you will be working across the application from backend database code to frontend JavaScript/CSS. Essential skills:  PHP  Zend  HTML, CSS, JQuery  OOP Desirable skills:  OOP in Java or C  Version control with SVN For interview please email jason.dixonevolutionjobs.co.uk with a copy of your C.V Please note that no terminology in this advert is intended to discriminate on the grounds of age, and we confirm that we will gladly accept applications from persons of any age for this role. If you would like to apply for this job please send your CV to jason.dixonevolutionjobs.co.uk

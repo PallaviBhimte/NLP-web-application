@@ -1,0 +1,4 @@
+Title: NET Application Support Analyst
+Webindex: 68495481
+Company: Harvey Nash
+Description: .NET Application Support Analyst  An experienced developer is required to provide technical expertise for supporting company product solutions and internal applications delivering ITIL based incident, problem, release and change management. To ensure that all company systems are transitioned from nonproduction to production and supported effectively. Essential skills for this role include: One or more formal IT qualification, eg MCP/MCAD/MCSD 34 years' experience of C .NET development 34 years' experience of SQL Server development. Experience of supporting Microsoft applications and development tools, eg Visual Studio, SQL Server Management Studio, etc. Experience of configuration management, build, installation, and deployment tools. Knowledge of ITIL framework. Good customer service skills. Good communication skills. Able to prioritise workload. Methodical problem solver.

@@ -1,0 +1,4 @@
+Title: SAS Programmer  Financial Services
+Webindex: 72160839
+Company: William Alexander Recruitment Ltd
+Description: SAS Programmer A large financial services client of mine is recruiting a SAS programmer to join the existing team in Surrey on a permanent basis. You will be heavily involved in SAS Programming, working with the team and business to ensure core development and analytical excellence. You will have a good understanding of different data tools and methodologies and will be able to make recommendations as to the pros and cons of these. There will be an element of data, business/management information and regular reporting in this role, whilst ensuring a core programming bias. Key Skills: Excellent SAS Programming Data/Business/MI reporting SQL Scripting  Desirable VBA  Desirable Datawarehouse environment experience  Desirable Macros  Highly Desirable Business Object  Desirable SAS Programmer

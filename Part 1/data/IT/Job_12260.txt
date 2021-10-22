@@ -1,0 +1,4 @@
+Title: Network Engineer  Design Engineer
+Webindex: 71842691
+Company: Thebes Mayland LLP
+Description: Checkpoint  R****  OSPF  BGP  CISCO  Routing  Switching  Design  ACE  Load Balancer  Firewalls  Security Our Client a Global Financial Services Company seek to hire Network Engineers to work in there Design and Engineering team based in London. There wont be any BAU support work involved. We are looking for engineers who have a proven background in Design and Implementation from an Enterprise environment with particular focus around R S, Security and Load Balancing. You will need to be very familiar with Checkpoint R**** CISCO BGP OSPF and CISCO ACE and CSS Checkpoint R**** Firewall  including virtual General Cisco networking including virtual switch/routing ACE, CSS, Load Balancing Global Data Centre experience Solid understanding of Change Management best practice Experience of at least one Financial institutions or large global company preferable

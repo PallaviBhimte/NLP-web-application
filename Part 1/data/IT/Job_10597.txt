@@ -1,0 +1,4 @@
+Title: Technical Database Architect (MySQL)
+Webindex: 71306617
+Company: Focus Select Ltd
+Description: Technical Database Architect (MySQL) required to work on datawarehouse based project for a South East based client. Essentially you need to have at least 5 years MySQL formal database design processes and architecture experience, indexing, structure, testing and benchmarking. You will be responsible for the technical architecture of a business critical MySQL based datawarehouse project from ground up with a fixed deadline, it is therefor essential that you have work on similar technical projects with a non moveable deadline, ideally within an Agile / Scrum development environment. This job was originally posted as www.cwjobs.co.uk/JobSeeking/TechnicalDatabaseArchitectMySQL_job****

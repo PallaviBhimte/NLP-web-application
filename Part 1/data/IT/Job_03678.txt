@@ -1,0 +1,3 @@
+Title: ALL MS First Line Analyst (SDesk)
+Webindex: 68449530
+Description: Responsibilities Taking calls from users with technical issues and trying to resolve at first contact. Logging all calls and tickets with details of user issues using Remedy Call Management system. Resetting passwords using Active Directory. Troubleshooting Microsoft software issues with emphasis on Outlook, Word, Excel and PowerPoint. Respond efficiently to enquiries and effectively resolve any issues. Escalate complex incidents to appropriate support members in line with company processes to ensure customer demands are met. Evaluate and chase up escalations appropriately to ensure customer demands are met.

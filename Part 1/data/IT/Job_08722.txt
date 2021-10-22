@@ -1,0 +1,4 @@
+Title: Linux Security Specialist
+Webindex: 69928444
+Company: Taskmaster
+Description: An exciting opportunity to work for a leading IT Security Managed Service Provider and Information Security Consultancy. The Main technologies that this company support are Linux based, combining open source technologies with their own inhouse developed components. Client solutions involve the management of security devices such as firewalls, intrusion prevention and detection, and also management of hosting environments. Applicants must have a strong technical background in Linux based security development, combined with expertise in networking. To be successful you must have a strong attention to detail and an analytical approach to problem solving and trend analysis. This role is based within the Security Operations Centre in Bradford. This vacancy is being advertised on behalf of Taskmaster Resources LTD who are operating as an employment agency.

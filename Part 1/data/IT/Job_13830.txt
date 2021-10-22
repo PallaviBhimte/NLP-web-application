@@ -1,0 +1,4 @@
+Title: Essex Senior Modelling Engineer Automotive Simulink
+Webindex: 72544474
+Company: Platform Recruitment
+Description: Essex Senior Modelling Engineer Automotive Simulink This company have created a unique system to measure emissions and performance of commercial vehicles. They are seeking an individual with strong Simulink and modelling skills to join their growing team at an exciting stage in the company s history. You will be heavily involved in MATLAB/Simulink based modelling for their product range which has a number of different applications within the automotive sector. Skills and Knowledge needed;  Strong MATLAB or Simulink experience  Automotive experience  Autocode generation essential, Real Time Workshop (RTW)/ Embedded coder The salary for this position will be open and flexible depending on experience. If you feel like you have the right experience for this position please apply with an updated CV, your availability and salary expectations

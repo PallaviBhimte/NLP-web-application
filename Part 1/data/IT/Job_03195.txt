@@ -1,0 +1,4 @@
+Title: QA Lead
+Webindex: 68359256
+Company: Kingfisher Consultancy
+Description: QA Lead  Central London (Victoria area) My London based Media Client requires a QA Lead, experienced enough to cover for the QA Manger, and technical enough to create automated tests using Cucumber JVM and/or Selenium Webdriver. Additionally, you should be an Agile evangelist with the desire to continually improve their Agile development processes. Applicants should be degree educated with proven experience of performance testing web applications and experience of automated testing of API's and Web Services. This is a permanent opportunity offering excellent long term career prospects. To apply, please email your CV to Dave Woods at Kingfisher Recruitment Specialists (Agency), or call for more information and a full job spec This job was originally posted as www.cwjobs.co.uk/JobSeeking/QALead_job****

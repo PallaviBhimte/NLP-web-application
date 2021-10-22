@@ -1,0 +1,4 @@
+Title: Virtualisation Engineers x ****
+Webindex: 72546426
+Company: CBSbutler
+Description: Virtualisation Engineers x **** Our clients name has been synonymous with making IT work for corporate businesses and the public sector, delivering cost effective and flexible IT solutions and services to meet the individual business needs of our clients. The successful candidate will be experienced in managing and monitoring virtual network environments using both HyperV and VMware and have the following experience: oSAN Arrays oiSCSI Storage oFibre Storage oHP Procurve/Cisco Switching oSystem Centre Virtual Machine Manager ****/2012 oSystem Centre Data Protection Manager ****/2012 oSystem Centre Configuration Manager ****/2012 oWindows Server ****/****/2012 oHyperV oFailover Clustering oActive Directory oGroup Policy oDNS oDHCP

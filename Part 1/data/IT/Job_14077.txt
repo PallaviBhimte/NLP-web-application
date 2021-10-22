@@ -1,0 +1,4 @@
+Title: Lead Database Developer
+Webindex: 72628990
+Company: Ashton Consulting  Ltd
+Description: SQL Server Developer / Admin with SSIS SSRS SSAS As an industry leader we are looking to employ a SQL Server Lead Database Developer You will cover the full spectrum of Microsoft SQL Server technology with the opportunity to research new technologies and help determine the direction of technical projects. Your background will cover Large multiterabyte databases SSIS, SSRS, SSAS SQL SERVER Development SQL **** development & administration TSQL, SPROCS, functions triggers Partitioning and Indexing Logical and Physical design, Data Warehouse The right person must be keen to learn new concepts and the processes that drive our business as well as be comfortable working in a development team. Ashton Consulting Ltd is an independent recruitment consultancy that specialise in recruitment solutions Worldwide. www.ashtonconsulting.co.uk.

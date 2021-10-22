@@ -1,0 +1,3 @@
+Title: BizTalk Developer  Perm
+Webindex: 68350714
+Description: BizTalk Developer, Manchester, Rochdale, Oldham, Bolton, BizTalk A fantastic opportunity has arisen for an experienced BizTalk Developer to join a successful and reputable organisation in the Rochdale area. My client are continuing to upgrade their BizTalk Server over the next year, so require a successful BizTalk developer to join them on a permanent basis to reverse engineer existing integrations and orchestrations within the existing server. Overall the main requirement is for a BizTalk developer, however someone with experience in the following areas would also be a major advantage. VB6 Microsoft SQL **** database TSQL. In return the client are offering a base salary of up to ****  benefits

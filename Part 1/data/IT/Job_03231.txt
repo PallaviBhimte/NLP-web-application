@@ -1,0 +1,4 @@
+Title: Systems Monitor
+Webindex: 68359502
+Company: set2recruit
+Description: Systems Monitor West Yorkshire ****  32,000 My client is a growing IT consultancy. They require an administrator to learn and manage their systems and help monitor and manage events effectively within the organisation. Your role will be to manage the operating systems and monitor events carefully. You will be able to: Configure and install monitoring system such as Hyperic, Nagios, Alertsite etc. Design and create service alerts Create milestones and gates and make them applicable You should have experience of application monitoring tools such as Hyperic, Nagios or other Knowledge of UNIX or Linux desirable This job was originally posted as www.cwjobs.co.uk/JobSeeking/SystemsMonitor_job****

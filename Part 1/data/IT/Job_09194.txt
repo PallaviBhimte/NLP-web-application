@@ -1,0 +1,4 @@
+Title: PHP Architect, Drupal  v cool Dotcom PHP, Drupal
+Webindex: 70455946
+Company: Orleston Associates Ltd
+Description: PHP, Drupal, MySQL PHP Architect with Drupal experience is needed by a very cool dotcom to head up, design and develop their brand new range of market leading web applications used globally by millions In the role you will be a hands on coder working closely with the CTO to mentor Junior Developers in PHP and Drupal best practices, whilst also taking ownership of the companies technical direction. Requirements: Strong OO PHP skills (**** yrs) At least 2 years hands on Drupal experience Good understanding of JavaScript and JQuery Experience with scalability strategies, including caching and CDNs. UML and XSLT a major plus. Send me your CV now to avoid missing out

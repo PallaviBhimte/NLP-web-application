@@ -1,0 +1,3 @@
+Title: BI Consultant  SSIS/SSRS/SSAS  Healthcare
+Webindex: 68837341
+Description: Data Warehousing and BI Consultant  SSIS SSRS SSAS. Based in Marlow, Bucks plus extensive UK travel  to **** plus benefits. Our client, a marketleading provider of software products and solutions to the healthcare sector, seeks a talented BI and DW Consultant. You will have advanced knowledge of Microsoft BI technology  SSIS SSRS SSAS, SQL Server and Sharepoint. You will be responsible for providing consultancy services to customers UK wide, to design and deliver BI solutions. The role will encompass the full project lifecycle including presales / proof of concepts, requirements gathering, development, implementation, testing and training/coaching

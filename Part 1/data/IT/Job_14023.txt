@@ -1,0 +1,4 @@
+Title: SQL Information Analyst  BI Stack/SSRS
+Webindex: 72578606
+Company: GSA Techsource Ltd
+Description: We have a requirement for an Information Analyst/Reporting Analyst with experience in SQL and BI Stack, importantly SSRS. Excel and dashboard experience is ideal as you will be extracting data from SQL Datasets and generating reports using SSRS. NHS experience would be an advantage but not a necessity, as would any experience in using a clinical Patient Management System. For an informal discussion please call Chris Bailey at GSA Techsource. GSA Techsource Ltd operates as an Employment Agency when recruiting for permanent vacancies, and an Employment Business when recruiting for contract vacancies.

@@ -1,0 +1,4 @@
+Title: LoadRunner Tester
+Webindex: 72372674
+Company: Ceres Technology Limited
+Description: Our leading client in Wolverhampton is looking for a LoadRunner tester to start ASAP: Rate **** per day, Location  Wolverhampton, Duration  3 months. SC Eligibility need for this role. You must have the following skills: Experience of performance testing using Loadrunner. Experience in developing Performance Test Scripts using LoadRunner Vugen. Experience in performing Load Tests using LoadRunner Controller. Experience in Analysing results using LoadRunner Analyser Experience in Analysing graphs and reports to check the delays and producing Management reports. Experience in using Loadrunner Monitors to identify bottlenecks in Network, Database and Application Servers. Good communication and interpersonal skills. You should be able to start immediately.

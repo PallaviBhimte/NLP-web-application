@@ -1,0 +1,4 @@
+Title: FD****
+Webindex: 69541215
+Company: Blake Myddleton
+Description: The role: We require an experienced Flash Developer to create an online ****D Kitchen planner to be integrated into a highly successful ecommerce site. The aim of this planner is to aid potential customers when placing orders and to create a visualisation and detailed costing of their chosen kitchen design. The successful candidate will need to work closely with an established team of web specialists and CGI artists when building the software. Requirements: Experienced at writing clean efficient AS**** and AS**** Solid working knowledge of Actionscript and OOP concepts Basic understanding of HTML, CSS, XML Optimisation both code and graphics Skilled in debugging Understanding of timeline and programmatic animation Attention to detail

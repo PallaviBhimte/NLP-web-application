@@ -1,0 +1,4 @@
+Title: Python MidLevel Developer
+Webindex: 68628576
+Company: Cititec Associates Limited
+Description: Python Developer Python Developer required for one of the UK's largest gaming companies. My client is currently undergoing a period of rapid expansion and are looking for entrepreneurial minds to come on board and help take their business to the next level. Projects vary  there is lots to be done on the Front End side of things, which is Python/Django, but they also have lots of work to be done in the Back End, which is mainly written in Scala.  Experience with NoSQL databases (MongoDB, CouchDB, Redis)  Ability to solve concurrency problems.  Strong Django skills  Strong Python skills  Experience/interest in Scala programming In order to avoid missing out on this opportunity reply to this advert now

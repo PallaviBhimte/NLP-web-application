@@ -1,0 +1,4 @@
+Title: Data Architect  SQL Server
+Webindex: 69173207
+Company: ECS Group Ltd
+Description: Working as a Data Architect within a large organisation you will be charged with designing and supporting data architect solutions. Experience of Reporting / Data analysis would be advantageous as would Data warehouse design. Technical skills should include;  Experience working with SQL Server BI Suite 2012  Experience working with Microsoft stack, SSRS, SSIS, SSAS, TSQL  Designing and optimising data integration architecture  ETL, ELT etc. Full JD available upon application… This job was originally posted as www.totaljobs.com/JobSeeking/DataArchitectSQLServer_job****

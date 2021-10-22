@@ -1,0 +1,4 @@
+Title: Senior Java developerScrum Master
+Webindex: 71565296
+Company: Hatstand Limited
+Description: Applicant must be degree qualified and have substantial experience of working in Investment Banking IT. You must be a Java Sun Certified Programmer.You will be responsible for different aspects of eTrading enterprise system such as: maintenance improvement of frontend Java desktop application for eTrading, exchange connectivity via FIX connection,realtime price feed, realtime trade portfolio updates, support troubleshoot tools available from internal Web UI and unix command line, reports, support, monitoring and troubleshooting eTrading application and scrum master role.Desired Skills: CC, Java, SQL, basic HTML and CSS, J****EE, Swing, AWT, applet, WebStart, reflections, regular expressions, JMX, java IO, NIO, SwiXML, FlexDock, GlazedLists, jdbc, log****j, JUnit This job was originally posted as www.cwjobs.co.uk/JobSeeking/SeniorJavadeveloperScrumMaster_job****

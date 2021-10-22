@@ -1,0 +1,4 @@
+Title: PHP Developer  Really cool Global Dotcom Video Streaming PHP
+Webindex: 69249963
+Company: Orleston Associates
+Description: PHP, MySQL, HTML5, Syfmony, Zend, Drupal PHP Developer is needed by a really cool global dotcom who are a household name and who are launching the next big IPTV platform for web, mobile, tablet and games console In the role you will join a PHP Development team in their brand new London based studio developing backend solutions for a scalable video streaming web application to be used globally by millions Technologies you will use include: OO PHP and MySQL Symfony (or similar MVC framework like Zend or CodeIgnighter) Drupal experience a bonus Mobile experience a plus HTML5 and JavaScript skills required Understand of Linux and Apache servers

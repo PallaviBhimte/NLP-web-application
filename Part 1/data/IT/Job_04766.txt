@@ -1,0 +1,4 @@
+Title: PHP Developer (LAMP)
+Webindex: 68677073
+Company: I4 Recruitment Ltd
+Description: PHP/MySQL (Lamp) Developer My client is looking for a strong serverside developer with the following skills: PHP5 MySQL Objectoriented design and development Ideally, you will also be fully conversant in the use of: Subversion Linux Apache web server Experience of HTML / CSS and Zend Framework would be advantageous, as all developers will need to attain Zend PHP5 Certification. This job was originally posted as www.totaljobs.com/JobSeeking/PHPDeveloperLAMP_job****

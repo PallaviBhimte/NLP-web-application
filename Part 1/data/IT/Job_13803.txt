@@ -1,0 +1,4 @@
+Title: Senior SAP Basis Administrator
+Webindex: 72484487
+Company: Interquest Group
+Description: IQ ERP are working with an FMCG business in NorthWest London to recruit a Senior SAP Basis Administrator. The purpose of the Senior SAP Basis Administrator is to provide technical support and take a lead role in developing a SAP competency centre within the group. The Senior SAP Basis Administrator will also be responsible for optimal configuration across all SAP modules and application servers, as well as being the primary liaison for the support and project infrastructure teams. Knowledge of UNIX using either Oracle or DB**** would be a distinct advantage, as would having experience of at least completing multiple installations and upgrade projects. Interquest Group PLC is acting as an Employment Agency in relation to this vacancy.

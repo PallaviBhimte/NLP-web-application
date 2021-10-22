@@ -1,0 +1,4 @@
+Title: Front End Developers  Javascript, HTML, CSS
+Webindex: 70320535
+Company: JOBG8
+Description: Front End Developer required by this leading B2B provider of products and solutions to companies in the online betting industry based in Stockholm, Sweden. You will join a very skilled team of Front End developers and build systems that run gracefully and fail gracefully. You will be writing testable software in collaboration with the testers and creating automated tests. You will support the Product Owners and apply your skills to the product development process. You need to have extensive experience with HTML, CSS and JavaScript. Highly advantageous is experience with GUI's for large screens, small screens, desktops, mobile devices, pads, tablets, PC, mac, etc. English is the only essential language required.

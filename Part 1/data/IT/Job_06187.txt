@@ -1,0 +1,4 @@
+Title: ASPNet/C Developer  Systems
+Webindex: 69018919
+Company: Clearwater People Solutions
+Description: My client is looking for a strong .Net Developer who has experience of C/.Net/SQL server and requirements gathering experience to join their existing team. You will be responsible for assisting with the implementation of a number of key business systems and also ensuring the ongoing operational functionality and efficiency of the organisation`s existing systems. You will be a highly skilled and versatile developer working within an agile environment The ideal candidate will not only be a developer, but must be customer facing and experienced in the full project life cycle working endtoend, from the initial idea right through to implementation. The candidate will have proven development experience in C, ASP. Net, VB.NET, SQL Server, ideally have experience of enhancements to CRM systems. You will need to have a full clean driving licence

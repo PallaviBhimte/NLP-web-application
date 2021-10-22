@@ -1,0 +1,4 @@
+Title: Technical Infrastructure Architect
+Webindex: 68496073
+Company: ECS Recruitment Group Ltd
+Description: As the Technical Infrastructure Architect you will be responsible for the overall architecture of the system infrastructure. these responsibilities will include; design, choice of hardware and software, security and network infrastructure. A proven track record with delivery of high level infrastructure and solution designs essential. Proven experience in Wintel environments with a strong understanding of server virtualisation. Skill set must include; Active Directory, SharePoint and Exchange. Full JD available.

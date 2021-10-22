@@ -1,0 +1,4 @@
+Title: Database Designer SQL, CADIS
+Webindex: 69571078
+Company: 7 Fifty Two Solutions Ltd 
+Description: Database Designer Working closely with the Project Manager, business analysts and infrastructure teams. Alonside the Business Analyst, confirm conceptual designs. You will have responsibility for the development and design aspects of a dedicated SQL server database. You will support the implementation and release of database changes according to agreed timescales and costs. Troubleshoot and problem solve issues with the SQL Development Qualifications Broad knowledge and experience in the investment management industry Proven experience of working with Microsoft SQL Server 2005 Experience with Enterprise Datamodelling tools Organisational and planning skills Strong communiciation skills

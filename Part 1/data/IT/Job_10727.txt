@@ -1,0 +1,4 @@
+Title: Technical Architect  VMware/Netapp
+Webindex: 71335390
+Company: ECS Recruitment Group Ltd
+Description: Role: Technical Architect  VMware/Netapp Location: Birmingham Salary: ****K  ****K Benefits: Car, Bonus, Pension, Healthcare Role: As the Technical Architect you will be responsible for the overall architecture of the system infrastructure. These responsibilities will include; design, choice of hardware and software, security and network infrastructure. A proven track record with delivery of high level infrastructure and solution designs essential. Candidate: Proven experience in Wintel environments with a strong understanding of server virtualisation. Skill set must include; VMware **** Netapp, Active Directory, SharePoint and Exchange. Proven hands on technical architecture experience is essential. Full JD available upon application.

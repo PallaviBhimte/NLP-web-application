@@ -1,0 +1,4 @@
+Title: SSRS / SQL Server Reporting Services Reports Developer
+Webindex: 67904666
+Company: Focus Select
+Description: SSRS / SQL Server Reporting Services Reports Developer required to create, develop, analyse, review and document SSRS **** / **** R**** based SSRS reports. Essentially you must have at least 5 years commercial SSRS reports development experience and have worked closely with finance departments analysing and creating financial and commercial reports for business areas using SSRS and TSQL. To be considered for this role you must have a minimum of 5 years SSRS / SQL Server Reporting Services, including TSQL development experience. Our client is willing to offer a basic salary of **** per annum  pension  holiday allowance

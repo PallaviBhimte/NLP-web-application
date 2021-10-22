@@ -1,0 +1,4 @@
+Title: Mobile App Developer (C/VB/SQL)  Lancashire
+Webindex: 71467232
+Company: Vivid Resourcing
+Description: My large client based in Lancashire are currently looking to recruit a developer to develop a form based mobile application using the NDL AWImx tool kit and SQL back end. Any previous Visual Studio experience will be helpful when using the IDE. C .NET or VB.Net form development experience is preferable. If you are interested in this opportunity please apply for an immediate response.

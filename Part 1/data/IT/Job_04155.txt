@@ -1,0 +1,4 @@
+Title: UNIX Analyst
+Webindex: 68626892
+Company: Sanderson Government & Defence
+Description: UNIX/Solaris/Linux/HPUX Analyst This successful leading communications company is seeking a talented UNIX, Linux, HPUX engineer to work from their Hampshire based offices. The ideal candidate will possess:  UNIX  In depth experience of Solaris  In depth experience with Linux  Proven experience of Scripting, batch operations and other automation techniques  Experience of storage configuration  System administration experience As a UNIX, (Solaris, Linux, HPUX) engineer you will be responsible for the day to day administration of these platforms. This is a great opportunity to work with a successful leading communications company and to develop and progress your career to the next level. For further information, please contact Imogen or alternatively please email me.

@@ -1,0 +1,4 @@
+Title: ASPNET MVC Developer  Oxford
+Webindex: 68628571
+Company: Austin Fraser Ltd
+Description: A leading technology company are looking to grow their development team after taking on a number of large clients recently such as Sky, Ferrari, Virgin and BT. They are looking for passionate developers who have commercial experience using ASP.NET with C. Ideally you would have been using it for at least 2 years commercially, and an Agile environment would benefit your application hugely. Commercial experience using ASP.NET MVC would put you in a very strong position, as the company is currently using it (MVC ****). To be considered for the role, you must have commercial experience in the following;  ASP.NET  C  HTML  CSS  JavaScript  SQL Server (**** or 2010) ASP.NET MVC would be a huge advantage, however the company are prepared to offer training should you need it. To find out more information on the role, please apply now and I will contact you when possible.

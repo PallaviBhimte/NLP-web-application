@@ -1,0 +1,4 @@
+Title: Linux Team Lead/ Systems Administrator
+Webindex: 71566097
+Company: Lorien Resourcing
+Description: Looking for a Linux Systems Administrator and a Linux Systems Team Lead to work in an exciting global organisation specialising in broadcasting and digital media based inLondon. Key requirements for both of these positions are:  Strong Linux (Redhat/ SUSE) installation, administration, patching, and upgrading  Server security and hardening (SSH, Solaris Security Toolkit etc)  General Unix services, such as DNS/ BIND, Sendmail and Samba with an understanding of NFS  Amazon AWS and EC**** experience  Rackspace Cloud servers/ Cloud Files  Hardware knowledge of Oracle/ Sun  Administration of J****EE/ Tomat/ Java applications The salary guidelines for this role are between **** and **** depending on experience and teamlead experience. This job was originally posted as www.cwjobs.co.uk/JobSeeking/LinuxTeamLeadSystemsAdministrator_job****

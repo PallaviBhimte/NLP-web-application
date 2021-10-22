@@ -1,0 +1,4 @@
+Title: VM Windows Engineer
+Webindex: 72195411
+Company: Request Technology Craig Johnson
+Description: Prestigious Enterprise Company is currently seeking a Windows VMware Engineer with some Storage experience. Candidate will engineer, build, test, and upgrade platform infrastructure; implement and maintain/support Enterprise virtualization platform; provide consulting services to clients across the Enterprise, with the ability to understand and assimilate complex crossdiscipline, and crosstechnology concepts and processes. Skills: VMware vSphere **** and higher (ESX and ESXi) VMware vCenter **** and higher VMware CapacityIQ vCloud Director VMware Site Recovery Manager (SRM) Storage Technologies (SAN, NAS, Replication and Backup) Networking Technologies  F**** GSLB, Load Balancers Windows 2003, **** Cluster Microsoft Active Directory (LDAP technologies) .NET Framework Microsoft IIS

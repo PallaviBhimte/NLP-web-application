@@ -1,0 +1,4 @@
+Title: NET Developer  Central Bristol
+Webindex: 69268512
+Company: Redrock Consulting Limited
+Description: A really exciting top technology firm in Central Bristol are currently seeking to add to their Agile .NET Development team. This is genuinely a great opportunity for an experienced developer in the city to join a team of some of the best .NET talent around the South West. Candidates should ideally be experienced with as many of the following technologies as possible: .NET Framework **** ASP.NET WCF (RESTful web services) LINQ Web Services Service Orientated Architecture Azure Test Driven Development Agile Practices If you re looking to make a step forward in your career and join an environment where there is unlimited potential for learning and expansion of your development skills, submit a copy of your CV today

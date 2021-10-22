@@ -1,0 +1,4 @@
+Title: Database Developer  SQL Server  TSQL  SSIS  SSRS  SSAS
+Webindex: 71593956
+Company: TechNET IT Recruitment Limited
+Description: Database Developer  SQL Server  TSQL  SSIS  SSRS  SSAS My client is currently looking for a DBA to join them on a permanent basis, offering a salary of up to **** for the right candidate. This role is to be based in their offices in Derby. Main duties include  Database Administration Creating new reports Updating existing reporting system. Implement CRM system. Essential skills. SQL Server 2005/**** TSQL. Desirable Skills SSIS. SSAS. SSRS. Visual Basic Knowledge or CRM systems

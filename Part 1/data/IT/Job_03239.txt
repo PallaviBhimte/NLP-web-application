@@ -1,0 +1,4 @@
+Title: Citrix Project Engineer
+Webindex: 68359523
+Company: SceneOne Ltd.
+Description: Citrix Project Engineer urgently sought, Belfast The core duties are:  Installation of ESX on Blades  Installation and Configuration of Provisioning Services  Installation and Configuration of XenApp **** Data Collectors  Installation and Configuration of DHCP infrastructure  Provision Licensing Server  Installation and Configuration of Citrix Licensing  Configuration and Testing of Citrix and Group Policies  Upgrade of Citrix Web and Access Gateway Clients  Access Gateway Upgrade  Citrix Provisioning Server architecture  Installation and Configuration of EdgeSight General:  Third Party Supplier engagement experience  Projects experience  Good communication skills  Good documentation skills This job was originally posted as www.cwjobs.co.uk/JobSeeking/CitrixProjectEngineer_job****

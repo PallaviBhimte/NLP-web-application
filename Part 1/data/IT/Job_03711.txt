@@ -1,0 +1,4 @@
+Title: C/C++ Developer, C, C++, Unix/Linux, Data, Greenfield, Software House,
+Webindex: 68495218
+Company: Optima Connections
+Description: Application Developer, C, C++, Unix, Linux, Data, Greenfield, Software House, North Hampshire. This role is for an experienced developer perhaps looking to reignite your career looking to take the next step into architecture within a fast growing software house. You will work closely with the business to define technical and business requirements and have experience of design and documentation and be capable of leading a small team. You will have experience of analysis and design with C and C++ on a Unix/Linux platform with both front and Back End experience. The immediate project will be to design and implement a new high performance low latency data engine from scratch.

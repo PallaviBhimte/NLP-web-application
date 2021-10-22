@@ -1,0 +1,4 @@
+Title: Lead SQL Server Developer
+Webindex: 72628984
+Company: Ashton Consulting  Ltd
+Description: Lead SQL Server Developer / DBA with strong SQL Server SSRS Developer and DBA background We are recruiting for a Lead SQL Server Developer / DBA with strong SQL Server SSRS Developer and DBA background. The role will suit a SQL Server Lead Developer / DBA who can undertake a mixture of solution scoping and design, database development projects. You will: Lead for a small team of database developers and data processors Requirements gather and produce system design documentation Design and development of databases using SQL Server 2008 R2 Design, development and automation of data processing systems Enhance data processing systems utilising TSQL and SSIS Mentoring or management experience is desirable Ashton Consulting Ltd is an independent recruitment consultancy that specialise in recruitment solutions Worldwide. www.ashtonconsulting.co.uk.

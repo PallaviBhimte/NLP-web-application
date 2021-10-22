@@ -1,0 +1,4 @@
+Title: Systems Engineer (Systech Guardian)
+Webindex: 69669660
+Company: Experis IT
+Description: Immediate requirement for a System Engineer to define how the Systech systems are configured and implemented to deliver the site system requirements for the deployment. The ideal candidate will agree the definition of how the Systech systems are integrated with the site SAPOER EPCIS systems. Your knowledge and experience will include Systech Guardian or similar systems and experience of managing traceability through parent / child relationships Knowledge of EPICS and other GS**** standards as applicable to this scenario. For full details on the role please send through your CV in the first instance.

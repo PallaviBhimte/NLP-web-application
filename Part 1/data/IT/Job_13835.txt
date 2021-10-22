@@ -1,0 +1,4 @@
+Title: Web Developer  ASP, NetNuke
+Webindex: 72544895
+Company: CBSbutler
+Description: Job Title: Web Developer  ASP, .NetNuke Salary: ****  **** Location: Hampshire Key Skills: ASP, DotNetNuke, Joomla, WordPress PHP, MySQL The Role: My client is looking for a motivated web developer to rewrite their ecommerce site and help develop it further. They will also require you to develop a new ecommerce site, as well as maintain their existing client s web sites. This is an opportunity to work within a small, growing team with excellent career prospects. Once the ecommerce site is rewritten, this will be sold globally. This is an exciting and rewarding role. The successful Web Developer will need skills and experience in the following: ASP classic and ASP.NET DotNetNuke PHP Joomla Wordpress MS SQL mySQL Developing in an IDE environment You should also have an awareness of web security

@@ -1,0 +1,4 @@
+Title: Net Developer (C)
+Webindex: 67652564
+Company: Edge Recruits
+Description: Our client a successful specialist software provider is urgently searching for an experienced .Net Developer (C) to join its dedicated software development team. You will be responsible for developing solutions from system specifications to agreed standards; you will ensure all solutions are tested and documented appropriately. To be considered for this opportunity you MUST be able to demonstrate extensive development experience using .Net and C. You will also have good understanding and commercial experience of SQL Server (****/****) and Windows XP and/or Windows 7. Ideally you will have experience of Design Patterns, C++, VB6 and VB.net. Any relational database modelling skills are highly desired. Please forward a copy of your CV, a cover letter and contact details (landline number) and I will call you upon receipt to discuss the role and client immediately

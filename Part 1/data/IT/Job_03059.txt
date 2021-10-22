@@ -1,0 +1,4 @@
+Title: Data Security Analyst
+Webindex: 68356718
+Company: Pytec IT Recruitment
+Description: A large technical service provider requires Data Security Analysts with excellent Security Support skills to join a busy twentyfour/seven SOC (Security Operations Centre) team in Cambridgeshire. Working with public and private sector customers you will support complex security solutions covering their core network which is made up of Cisco, Blue Coat Proxy, Cisco ASA, Juniper PIX/SSL/VPN and/or SSG however only strong security, Cisco FW, BCCPA and/or BCCPP. Senior Security Analyst also required to lead the team. It is essential that candidates are eligible to gain UK Security Clearance if you are not in possession of it already

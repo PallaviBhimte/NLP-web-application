@@ -1,0 +1,4 @@
+Title: Mobile Packet Core  Support Engineer  Telecommunications
+Webindex: 69976321
+Company: TDA Recruitment Ltd
+Description: Mobile packet core, mpc, telco, telecoms, telecommunications, NSN SGSN, NSN GSSN, charging gateway, lig, RADIUS, O M, NSN, FlexISN, Flexi NG, NAISA, KABIRA This is a great opportunity to join a leading telecommunications provider in the UK as a Mobile Packet Core Support Engineer. You will be providing support on the Mobile Packet Core (MPC) network in a ****x7 shift rotation pattern to maintain 99.9% service level availability in accordance with SLA's. You will be providing 3rd level support on various mobile packet core technologies including NSN SGSN, NSN GSSN, Charging Gateways, LIG and RADIUS. A successful candidate will have experience working in Mobile Packet Core as a Support Engineer with technical experience in NSN SGSN, NSN GSSN, RADIUS and IP. Applicants must be eligible to work in the UK without restriction or sponsorship.

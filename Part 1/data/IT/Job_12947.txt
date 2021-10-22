@@ -1,0 +1,4 @@
+Title: NET UI Developer
+Webindex: 72160624
+Company: Lynx Recruitment Ltd
+Description: .NET UI Developer required for Cheshire based client. You will be a .NET developer with a keen interest in all aspects of modern software as a service (SaaS). You must have a passion for modern responsive Web Applications and be able to demonstrate a portfolio of web design solutions. This is a great opportunity for an enthusiastic person to put there flair for UI design into action and really put their mark on the products. For this role you will require a Degree level Qualification in an IT or Engineering discipline. Excellent Microsoft .NET C (**** ), ASP.NET, MVC, Web Forms. Visual Studio **** Query, jQuery UI, JavaScript, CSS, HTML, AJAX. Excellent Web UI design skills.

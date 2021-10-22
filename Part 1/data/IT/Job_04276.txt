@@ -1,0 +1,4 @@
+Title: Message Broker designer
+Webindex: 68627799
+Company: Mpower Plus UK Ltd
+Description: Location: Uxbridge, West London Duration: 2 years Fixed Term Contract Compensation: **** Per Annum Should have a good experience in executing projects on Middleware platforms Should have executed projects on IBM integration platforms (Like WebSphere message broker, MQ (Message Queue), B2B etc.) Excellent communication skills Exposure to multiple integration patterns and consultative approach Exposure to SOA (Service Oriented Architecture) is useful Should be able to drive issues escalated from design perspective and work with multiple architects for resolution.

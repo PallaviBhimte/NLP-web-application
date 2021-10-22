@@ -1,0 +1,4 @@
+Title: C and AspNET Software/Web Developer
+Webindex: 72578482
+Company: Focus Select Limited
+Description: C and Asp.NET Software/Web Developer required to develop C and Asp.NET based software solutions through full SDLC including design, code, debug, test, document and maintain web and software based applications. Ideally you will have around 5 years commercial C and Asp.NET development experience with a strong understanding to design patterns and Object Oriented Design/OO/OOD. As this is a mix of C and Asp.NET software development and web development you will also need to have a good working knowledge of web skills such as HTML, IIS, CSS, JavaScript and Ajax. Experience of Agile development life cycles (iterative and incremental) and of working within scrum teams is preferred. This is a permanent role and my client is willing to offer a competitive salary and benefits package.

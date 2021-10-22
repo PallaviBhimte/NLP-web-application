@@ -1,0 +1,4 @@
+Title: Data Modeller  ErWin, Enterprise Data Warehousing, EDW
+Webindex: 68628358
+Company: Levy Associates Ltd
+Description: Data Modeller  ErWin, Enterprise Data Warehousing, EDW My client, a leading data solutions company is looking for a Data Modeller to join their worldclass team due to its continued expansion. This role is for a data modeller to work as part of the Professional Services team, implementing projects for leading UK companies. The ideal candidate will have experience using ErWin as a Datamodelling tool, a background in enterprise data warehousing/EDW, and have excellent customer facing consultancy skills. This role will involve customisation of generic data models to meet the client's precise requirements and production of the end physical model. The ability to produce a custom data model from scratch is also required. Please submit your CV for immediate consideration.

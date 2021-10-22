@@ -1,0 +1,4 @@
+Title: Service Developer
+Webindex: 65207932
+Company: The Bridge Ltd
+Description: My client are a growing company and are located in Leeds city centre. They are currently on the lookout for a Service Developer who will be the single point of contact, from a technical level, for the support, maintenance and enhancement of all aspects of a series of IT based services in the mobile and transportation markets. Key skills are as follows; Product/Application Support Monitoring Tools; OTRS/Remedy Fault Diagnosis Some of your duties will include 2nd/3rd line support, management reporting and to be the primary contact point for technical discussions with the customer. Any experience of Scripting, Web Frameworks, Databases Application servers would be classed as beneficial. This job was originally posted as www.cwjobs.co.uk/JobSeeking/ServiceDeveloper_job****

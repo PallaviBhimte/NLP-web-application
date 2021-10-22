@@ -1,0 +1,3 @@
+Title: Senior DBA Developer
+Webindex: 64767910
+Description: This is a senior production role in supporting and developing a clustered ****TB Data Warehouse and Extranet web portal. Prospective applicants must be able to demonstrate experience and ability. Background or Experience required: Oracle ****/****g Oracle ClusterWare ASM / RAC PL/SQL MS SQL Server Essential: Oracle Application Server ****g OWB Linux administration and shell scripting Data Warehousing Skills Desirable: Some Web development, php, html, java script Industry knowledge of Mobile Devices and Networks For further information and to apply for this vacancy, please visit our website

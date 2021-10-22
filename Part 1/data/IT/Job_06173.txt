@@ -1,0 +1,4 @@
+Title: DV Cleared Build Engineer
+Webindex: 69018810
+Company: CBSbutler
+Description: DV Cleared Build Engineer  Hook Urgent requirement for a DV Cleared Build Engineer for the DII Project at Hook  should be a long term project. Basic requirements are:  Strong experience in Windows 7 deployments Windows Operating system Windows Automated Installation Kit (WAIK) Microsoft Deployment Toolkit (MDT) Windows Deployment Services (WDS) Excellent Powershell skills Hardening Experience

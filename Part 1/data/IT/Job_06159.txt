@@ -1,0 +1,4 @@
+Title: Net Development Team Lead
+Webindex: 69018683
+Company: Carrington Blake Recruitment
+Description: My client requires an experienced .Net team leader for a fully rounded role. Your main focus will be the development of their web and online offering but while also having involvement with technical architecture and process improvements. You will also be responsible for leading and mentoring a team of 5 developers. You will need to demonstrate a excellent technical skills across the range of Microsoft Products inclusing: C .NET, Visual Studio Microsoft SQL Server, including stored procedures and administration ASP.NET HTML, DHTML. CSS, Javascript IIS Hosting Knowledge of MOSS and Silverlight would be an advantage

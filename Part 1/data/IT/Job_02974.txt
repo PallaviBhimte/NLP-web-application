@@ -1,0 +1,4 @@
+Title: Test Automation Engineer Web
+Webindex: 68347452
+Company: IT Connections Limited
+Description: Position: Test Automation Engineer Web Milton Keynes to **** Test Automation Engineer Web role exists within this impressive financial firm. This is a temporary role for approximately nine months, but with a possibility to go permanent. You will be part of a team contributing to the testing of a Java web based financial application. You will produce detailed functional, regression and operational test plans as well as prepare test data and execute tests and log defects. Skills Required: Excellent written and spoken English skills Experienced in testing web applications and ideally web services Experienced in automation testing using QTP Exposure to financial systems Experienced in defect tracking Excellent interpersonal skills In the first instance please submit your CV and if you are short listed we shall come back to you within seven days.

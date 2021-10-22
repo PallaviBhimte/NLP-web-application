@@ -1,0 +1,4 @@
+Title: Sharepoint Technical Lead/Senior SharePoint Developer
+Webindex: 71774349
+Company: Harvey Nash IT Recruitment UK
+Description: One of the worlds global Law firms is looking for a highly experienced Lead Sharepoint Technical Developer/Senior Sharepoint Developer to join their team in Central London. The role is a hands on lead SharePoint Developer role responsible for designing, planning and provisioning solutions to enhance the capability of the firms information ecosystem working alongside Business Analysts and under the guidance of Project Managers. The key technologies they are looking for are SharePoint, Microsoft .NET technologies (CSS, JavaScript), PowerShell and PowerScript, REST, SOAP and WCF. Sharepoint 2010 or 2013 would be desirable. If interested please contact or call me.

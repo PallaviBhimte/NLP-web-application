@@ -1,0 +1,4 @@
+Title: Business Applications Report Developer
+Webindex: 72160543
+Company: Search 4 Technology Ltd
+Description: We require a Developer with excellent reporting and analysis skills, to maintain and develop various Financial and HR Reporting Systems.You will ideally have a wide understanding of general IT functions within a classic wintel environment. Main technology skills required are; SQL views, SQL functions, MS Access and Crystal Reports for finance and Professional Service teams. Hyperion experience would be an advantage. Excellent communication skills are required to interact in a global business environment.

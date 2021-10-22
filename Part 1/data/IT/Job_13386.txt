@@ -1,0 +1,4 @@
+Title: Senior BI Engineer
+Webindex: 72372576
+Company: Talent International
+Description: My client is the UK's fastest growing online retailer. With offices in New York and Sydney they really have built a true global brand. Due to their amazing success they are looking to add several experienced BI Developers to join their elite team based in London. Essential Skills Knowledge of Data Warehousing, ODS, DataMarts, CRM and OLAP concepts and designs Indepth knowledge of TSQL and the effective use of constraints and indexes Expert SSIS Development, Look ups, Loops, Cache, Events and Parameterization SQL Server 2008 R2 Enterprise Edition, including SSAS Database Table partitioning and data compression Data Warehousing techniques, methodologies and Datamodelling tools Desirable Skills SSRS SQL Server Security SQL Server Transactional Replication .NET **** C Windows Server 2008 R2 TCP/IP To be considered for these exciting roles please forward your CV or contact me.

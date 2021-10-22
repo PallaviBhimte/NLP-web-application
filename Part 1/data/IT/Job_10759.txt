@@ -1,0 +1,4 @@
+Title: VB/ASP Developer
+Webindex: 71335791
+Company: Vesta Consulting Limited
+Description: Job Description: Identify, analyze and define application requirements Develop, enhance and maintain VB6 applications Perform unit test and integration support Develop documentation as needed Work in a team environment using agile software development processes Previous experience working in VB6 Classic ASP application development, SQL****/****/**** development , Agile methodology will be preferable. Technical skills: Visual Basic **** COM, MTS, MSMQ based implementation, SQL Server (**** ****) Tools like JIRA, Subversion, CCNet, VSS

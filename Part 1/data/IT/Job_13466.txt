@@ -1,0 +1,4 @@
+Title: C++ Programmer  Gameplay and Animation experience
+Webindex: 72373230
+Company: Jenrick CPI
+Description: C++ Games Programmer: Animation experience Looking for an experienced Gameplay Programmer with experience in animation programming to join an excellent Games Studio in Surrey on a contract basis. You will have experience:  You will have at least 5 years of experience working in the games industry  You will have knowledge of third party animations systems: Havok animation, NaturalMotion Morpheme or Autodesk HumanIK  knowledge of low level systems used in animation ie playstation edge  Knowledge of different animation techniques, including skeletal rig/softskin and blend shapes  Excellent C++ skills in a game development role Please apply ASAP as this is an urgent role. Contract rate is negotiable for the right person.

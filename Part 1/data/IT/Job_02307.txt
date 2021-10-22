@@ -1,0 +1,4 @@
+Title: PHP Developer  MySQL / Apache / Linux / Zend
+Webindex: 67948643
+Company: NonStop Recruitment Ltd
+Description: PHP developer  LAMP  PHP/MySQL/Linux/Apache A talented web developer with strong LAMP skills is required by our client in Norwich. As a result of expansion they are now looking to recruit a web developer with solid experience in PHP5, MySQL, Apache and Linux. To be considered you must have solid experience in OO development and be someone who can join the team and be productive immediately. Subversion experience (or other version control skills) would be handy too. If you have Zend skills that would be ideal but the company are willing to put you through your Zend certification so this is an excellent opportunity to add to your skillset. Get in touch today for more details.

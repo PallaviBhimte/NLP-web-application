@@ -1,0 +1,4 @@
+Title: Embedded Software Engineer  C, C++, Linux, TCP/IP
+Webindex: 69039988
+Company: Computer Recruiter Ltd
+Description: Embedded Software Engineer – C, C++, Linux, TCP/IP Our client, part of a large international group involved in the Digital TV industry, is looking for a talented Embedded Software Engineer (with C, C++, Linux and TCP/IP) to develop driver level solutions and tools. The primary focus of this role is the development and integration/porting of embedded IPTV/Hybrid API sets to a variety of environments. As an Embedded Software Engineer (with C, C++, Linux and TCP/IP), you must have at least 4 years’ embedded driver development experience using C, C++, TCP/IP and Linux. Commutable from: Neath, Bridgend, Cardiff, Newport, Bristol This job was originally posted as www.cwjobs.co.uk/JobSeeking/EmbeddedSoftwareEngineerCC++LinuxTCPIP_job****

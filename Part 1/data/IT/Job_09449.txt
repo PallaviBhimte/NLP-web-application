@@ -1,0 +1,4 @@
+Title: Application Developer  Net, C, Visual Studio
+Webindex: 70676891
+Company: Computer People  Limited
+Description: Fantastic development opportunity for a Senior Application Developer based in Surrey just outside the M25. The role is looking for a well rounded Senior Developer with experience in taking an active part in Scrum meetings and working within a structured Test Driven environment to Agile methodologies. The company are a leader in their field and highly regarded within their industry In order to apply for the role you MUST HAVE experience in the following technologies: C; .Net **** framework; Visual Studio 2010; Team Foundation Server; XML or XSD; HTML and CSS; Javascript, jQuery, AJAX, JSON; Oracle or SQL Server; MVC (an awareness of); WCF  Windows Communication Foundation. The following skills would be advantageous; Orion Rhapsody; LINQ; Rhino Mocks; App Fabric; IIS.

@@ -1,0 +1,4 @@
+Title: C++ Programmer with ****D, Visualization or Gaming experience
+Webindex: 70320536
+Company: JOBG8
+Description: C++ Programmer with experience in ****D, Visualization or gaming required by this exciting company in the gaming industry based near Stockholm, Sweden. You will be joining the development team and designing and implementing systems and writing high performance code in C++ and CUDA. You will be part of a small, highly skilled, agile development team working with leading game development companies. Strong C++ programming skills required. It would be advantageous to have experience in ****D industry which could be in the form of games or visualization etc. GPGPU experience is a bonus, as is any Scripting language experience (eg Perl, Python). English is only essential language required.

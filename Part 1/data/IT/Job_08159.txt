@@ -1,0 +1,4 @@
+Title: Core Java Developer Equities trading Investment bank front office
+Webindex: 69669572
+Company: McGregor Boyall Associates Ltd 
+Description: Core Java Developer Equities trading Investment bank front office London Java Equities trading  A top tier Investment Bank are looking for an experienced core Java Developer to play a key role in the design and development of critical components for managing realtime positions for Equities trading. The role will involve engaging in the full Java project life cycle and interacting directly with the business to establish and define requirements. The successful candidate will be experienced in the areas of Java development and have experience delivering position management, order management or realtime risk systems for frontoffice users. Ideally you will also have database skills, including database design, SQL development and query optimisation.

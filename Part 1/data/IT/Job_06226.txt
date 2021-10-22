@@ -1,0 +1,4 @@
+Title: Third Line Support
+Webindex: 69019160
+Company: Red Berry Recruitment
+Description: Permanent **** **** per annum Our valued client based in Yeovil is looking for a 3rd Line engineer to join their busy team The successful candidate will join as a senior member of our team of **** engineers based out of our Somerset office. They will be expected to fulfil a 3rd line role on the service desk as well as manage and implement technical projects for our clients who are based throughout the south of England. The role will include:  Design technology solutions to client requirements  Manage and deliver complex technical projects on time  Actively partake in R Active Directory TCP V**** DNS WINS RRAS Sonicwall FW / SSL Symantec Backup Exec Symantec System Recovery Terminal Services Citrix Xen server / Xen Desktop Windows Hyper V virtualisation

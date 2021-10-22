@@ -1,0 +1,4 @@
+Title: Information Architect (Information Management)
+Webindex: 69764550
+Company: Wipro Technology
+Description:  Participate in requirement gathering and analysis  Create the necessary ETL processes to load the data into the structured data and various data marts  Hands on experience in Teradata  Map Source and Target data effectively  Create all levels of component designs and ensure correct execution of designs  Enhance the environment to support increased data volumes and end user numbers  Manage dependences, priorities and issues and track them to closure  Facilitate internal review and obtain approval Please note: This ad will expire on the 28th Day from the date of postings.

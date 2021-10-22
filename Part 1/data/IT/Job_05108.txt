@@ -1,0 +1,4 @@
+Title: Java and SQL Developer
+Webindex: 68689035
+Company: Modis
+Description: JAVA /SQL DEVELOPER  GLASGOW  12 MONTHS  FINANCIAL SECTOR Our client in the financial sector are actively seeking an experience Java developer with SQL/Sybase experience. You will be required to; Design, implement, test and maintain major serverside components of the products. Implement distributed processing (multithreading as well as clustering) for areas such as data manipulation, search, web services, and security. You must have; Java development experience preferably using the Eclipse IDE Experience using Tomcat or a similar Enterprise Application Server Knowledge of the Spring Framework **** and above. Understanding of XML based messages and schema. Please apply if this is you or call Phoebe on **** JAVA /SQL DEVELOPER  GLASGOW  12 MONTHS  FINANCIAL SECTOR This job was originally posted as www.totaljobs.com/JobSeeking/JavaandSQLDeveloper_job****

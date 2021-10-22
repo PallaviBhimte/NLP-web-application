@@ -1,0 +1,4 @@
+Title: Application Test Manager
+Webindex: 71299492
+Company: Qualserv Consulting Ltd
+Description: Our client are a large local government organisation and are looking for an experienced Applications Test Manager to join their team. This is initially a 3 month contract however this may be extended for the right candidate. The successful candidate will be required to come on board and manage the application packaging and virtualisation testing for a Windows 7 migration project and will have had previously planned, monitored and controlled test resources in a matrix environment as well as dealt with risk and issue management by identifying problems, preparing mitigation plans and resolve and managed to completion. You will also plan and conduct test meetings, workshops and training sessions and presentations for both technical and non technical audiences. A Prince **** and ITIL qualification is also essential

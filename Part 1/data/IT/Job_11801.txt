@@ -1,0 +1,4 @@
+Title: SQL DBA/Data Analyst
+Webindex: 71706731
+Company: Redrock Consulting
+Description: My client is looking for an experienced SQL Database Administrator/Developer to join their team. The successful candidate will have over 2 years experience within a SQL DBA capacity working with SQL server 2005/**** and working knowledge of TSQL and SQL Replication. You will have a demonstrable record of working with SQL databases within a virtual environment and exposure to SQL management tools and SQL monitoring are also expected as well as experience working with SSIS and SSRS, ETL and Data Warehousing within previous roles. Knowledge of performance tuning SQL servers would be beneficial along with a logical and problem solving outlook.

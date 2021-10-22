@@ -1,0 +1,4 @@
+Title: Windows/Citrix Systems Administrator
+Webindex: 68180848
+Company: Coba IT
+Description: Windows Systems Administrator is required for our client who is about to start a migration project moving an environment from from Windows Server **** running XenApp **** to Windows Server **** r**** running Citrix XenApp **** We are looking for a strong systems administrator with experience of operating in a medium sized production environment **** users with a proven project background. Any experience of supporting Linux servers would be an advantage. This is an initial 1 month contract however it will possibly extend further

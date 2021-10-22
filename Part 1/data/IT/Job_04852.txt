@@ -1,0 +1,4 @@
+Title: SQL/BI Developer  SSRS
+Webindex: 68680284
+Company: Modis
+Description: SSIS, SSRS, SSAS, MDX, SQL Server, I have an urgent need for an experienced SQL/BI developer who lives and breathes SSRS. This is to join a BI team who have been developing a huge **** TB data warehouse, you will be required to build SSIS packages and develop many reports using SSRS. The ideal candidate will have experience with MDX. This is for a 3 month contract with a likely chance of an extension  the project is due to going live in April next year. This is a fantastic opportunity to join an experienced BI team and work on a project any BI developer would love to be a part of. Please forward your CV for immediate consideration. This job was originally posted as www.totaljobs.com/JobSeeking/SQLBIDeveloperSSRS_job****

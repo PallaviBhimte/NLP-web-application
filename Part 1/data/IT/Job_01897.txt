@@ -1,0 +1,4 @@
+Title: Migration Analyst (6 months)
+Webindex: 67652416
+Company: Red Personnel Ltd
+Description: This well known organisation requires a Migration Analyst  this role will be splitting existing forms and reports (In house programming language) and tidy any logic issues as per instructions. This is not for a professional programmer but a person who has a little experience of procedural language (i.e. VB, VBA) and eye for detail. The position is to support the Editorial Work Station replacement team in retiring EWS and migrating contents on to the new framework/system. ESW comprises of numerous eForms and eReports. The job holder will need to split the existing eForms and eReports into granular components, ready for migration, keeping the existing business logic intact. Strict attention to detail ability to manage multiple deadlines effectively, experience in working with workflows and MS Excel programming is required as is good communication skills

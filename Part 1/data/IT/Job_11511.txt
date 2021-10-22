@@ -1,0 +1,4 @@
+Title: SQL Server 2008 Reports and ASPNET (VBNET) Developer
+Webindex: 71594002
+Company: Damia Group LTD
+Description: We are looking for an experienced ASP.NET and SQL Server Reporting Services 2008 reports developer to assist in resolving performance and general support issues with a .NET **** based web forms application written in VB.NET with a significant focus on Microsoft's ReportViewer ASP.NET control. This is a handson role and we require someone to come in and hit the ground running, therefore, recent practical and commercial experience in the above technology is imperative. Required Skills: ASP.NET VB.NET SQL Server 2008 SSRS SSIS IIS**** HTML JavaScript JQuery Visual Studio 2010

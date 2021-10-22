@@ -1,0 +1,4 @@
+Title: C++ Developer  Pricing and Risk
+Webindex: 66605819
+Company: iKas International
+Description: A Global US Investment Bank is currently looking to hire a Senior C++ Developer to join the Fixed Income Risk Technology Business. You will be working in the front office closely with quants and traders to develop and assist in the design of the Fixed Income Risk and Valuation platform. The application supports Fixed Income Flow and Rates and Credit Derivatives. This is an excellent opportunity for a talented technologist to join a leading investment bank whilst working on some exciting quantitative applications. To apply for the role ideally you will be familiar with risk calculations (greeks/etc) and interest rate derivatives products with excellent C++ skills. To apply for the role please send your CV to Nadia Abdulla or call me on for more details. Ikas International Ltd is acting as an Employment Agency in relation to this vacancy.

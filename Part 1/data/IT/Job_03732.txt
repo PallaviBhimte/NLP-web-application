@@ -1,0 +1,4 @@
+Title: MS BI Support Engineer
+Webindex: 68495363
+Company: Harvey Nash
+Description: My Cambridgeshire based client is looking for a SQL/BI Developer on initial 6 months contract. You must have had exposure to the following: A high level of knowledge and experience with Extract, Transformation and load techniques development and support using SSIS 2005 with ****R2 desired A high level of knowledge and experience with Microsoft SQL Server 2005/****R**** TSQL, and Stored Procedures/Triggers Must be proficient with the Microsoft Office Suite of applications and possess the capability of producing professional documentation Experience of Heterogeneous Systems and ETLs between with Oracle PLSQL skills an asset Experience and Skills in SSRS/SSAS 2005 Desired ****R2. For a full description, do not hesitate to apply. If you feel you meet the criteria please send your CV in ASAP.

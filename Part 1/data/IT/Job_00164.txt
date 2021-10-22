@@ -1,0 +1,4 @@
+Title: Systems Center Operations Manager  SCOM2012
+Webindex: 55410122
+Company: Lynx Recruitment Ltd
+Description: System Center Operations Manager required with skills in SCOM/SCCM/SCO/SCSM 2012. You will have excellent implementation experience with the 2012 System Center products with a focus on the Microsoft Private Cloud Solution. Ideally you will have experience using SCOM 2012 to monitor server instances in Azure and be able to assist my client with the intergration points into this platform. This is an excellent role where you will be working with the latest Microsoft technologies and be exposed to an extremely technical environment. scom azure cloud microsoft

@@ -1,0 +1,4 @@
+Title: Websphere Application Specialist
+Webindex: 69545803
+Company: Experis IT
+Description: Our client are looking for an experienced Websphere Application Specialist for an initial 4 month contract based in London. The ideal candidate will be able to install and configure Websphere Application Server ****x, ****x and troubleshoot Websphere related issues. The ideal candidate will have experience of writing scripts in Jython and will also have some experience of Siteminder technology. Please submit your CV to discuss in more detail. This job was originally posted as www.cwjobs.co.uk/JobSeeking/WebsphereApplicationSpecialist_job****

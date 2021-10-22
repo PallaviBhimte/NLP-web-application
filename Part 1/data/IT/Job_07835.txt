@@ -1,0 +1,4 @@
+Title: Lead Java Developer  Fixed Income Trade Processing
+Webindex: 69546218
+Company: Harvey Nash plc
+Description: Java Developer, Team Lead, Core Java, Multithreading, Spring, JMS, Fixed Income/ Equities Lead Java Developer required for a permanent vacancy working for Investment Bank in London to work on the bank's rates derivatives trade processing system. This project is one of the key technology initiatives of Fixed Income IT. Salary  **** per annum  benefits and bonus Essential experience: Extensive experience in core Java, multithreading, spring, experience in Messaging (JMS). Experience in Agile, lean development principles, test driven and behaviour driven development. Experience in financial services either in fixed income or equities. Computer Science Degree or equivalent Please apply for immediate consideration or call on **** This job was originally posted as www.cwjobs.co.uk/JobSeeking/LeadJavaDeveloperFixedIncomeTradeProcessing_job****

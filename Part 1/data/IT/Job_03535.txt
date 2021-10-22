@@ -1,0 +1,4 @@
+Title: Technical Lead  Java FX ETrading Developer
+Webindex: 68361196
+Company: McGregor Boyall
+Description: Technical Lead Java eFX lowLatency Developer A Lead Technical Java developer is required by this Tier **** Investment Bank to join their eFX Trading Team. This is a front office ultralow latency FX project working very closely with the traders on a greenfields pricing connectivity system. The successful Java technical lead must have experience of working within electronic trading as well as working around streaming pricing systems, STP, electronic trade execution and market depth aggregation. Required Technical Skills: Core Java Messaging, Tibco Rendezvous, EMS, JMS, **** West Unix Knowledge of eTrading workflows Front office experience Ultra low latency eFX Risk and Pricing multithreaded systems Java eFX lowLatency Developer This job was originally posted as www.cwjobs.co.uk/JobSeeking/TechnicalLeadJavaFXETradingDeveloper_job****

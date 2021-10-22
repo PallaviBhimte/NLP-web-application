@@ -1,0 +1,4 @@
+Title: Message Broker Architect
+Webindex: 68689559
+Company: Doyen Resources
+Description: My Client, a leading It service provider based in London, is looking for a dynamic Message Broker Architect for a permanent position. They are looking for someone with a strong background in most of the following: Deep understanding of Websphere Message Broker (WMB Solid understanding of Websphere MQ concepts Solid understanding of infrastructure related requirements for WMB Experience using WMB in a SOA Solution Experience using Web Services in WMB Experience working with Message Sets/WSDLs/ SOAP nodes Experience WMB EIS nodes (SAP, Siebel etc.) Experience in creating, performance tuning, and troubleshooting message flows Some experience in administration aspects of WMB Excellent communication are paramount as you will dealing with clients and working as part of a team This job was originally posted as www.totaljobs.com/JobSeeking/MessageBrokerArchitect_job****

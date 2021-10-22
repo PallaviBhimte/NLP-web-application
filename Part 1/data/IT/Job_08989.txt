@@ -1,0 +1,4 @@
+Title: Guidewire Professional
+Webindex: 70191513
+Company: NIIT TECHNOLOGIES LTD
+Description: Essential experience/skills **** Configurators with extensive experience in Guidewire Claimcenter ****/****ey skills: Commercial lines experience. Deployment experience eg. working on test/prod systems to deploy apps. Knowledge of ClaimCenter data model. Understanding and experience of CC financials and models Handson experience with extending data entity models, debugging, fixing issues and deployment processes. Handson designing screens layout, writing business rules, extending data model, administrative tools and general application configuration Experience in developing or configuring screens workflow using GOSU scripts and Guidewire Studio Familiar with Apache Tomcat, JBOSS or Websphere J****EE containers

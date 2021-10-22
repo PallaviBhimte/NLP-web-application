@@ -1,0 +1,4 @@
+Title: APPLICATION SUPPORT/Front Office/eFX/UNIX/SQL/SWAPS
+Webindex: 72578432
+Company: Astbury Marsden
+Description: APPLICATION SUPPORT/Front Office/eFX/UNIX/SQL/SWAPS A leading investment bank has a vacancy within its eFX trading desk. The candidate will be required to liaise with internal traders and provide effective FX Cash life cycle and processing support, along with maintenance and support of a wide range of associated applications. You will undertake PnL and position investigations, market data queries, booking and processing analysis to support business functions. As such the role provides a great opportunity to build on a sound technical grounding and improve business knowledge. Technical skills required; Previous Front Office experience within an eTrading investment banking environment Operating Systems; UNIX. Windows Databases; SQL, Oracle, Sybase Perl Scripting FX Business Knowledge

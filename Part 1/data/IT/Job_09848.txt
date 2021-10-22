@@ -1,0 +1,4 @@
+Title: Simcorp Integration
+Webindex: 70782220
+Company: I.T. Skillfinder
+Description: Simcorp integration profile required for a leading Investment Manager based in Switzerland. They are responsible for those Development and the maintenance of various interfaces between external systems and SimCorp dimension. Calculations extractions from SimCorp dimension (Design, Build, test, training and release) (IT operation, Incident problem management) Requirements At least 3 years professional experience in the financial industry Basic knowledge of Financial instruments Experience with SimCorp dimension, Integrations tools (filter Toolbox, data extractor etc.) Good data base knowledge (Oracle/SQL etc.) Analytic one, structured and solutionoriented thinking and function This job was originally posted as www.cwjobs.co.uk/JobSeeking/SimcorpIntegration_job****

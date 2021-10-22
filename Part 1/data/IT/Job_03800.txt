@@ -1,0 +1,4 @@
+Title: Solaris BAU Support
+Webindex: 68495916
+Company: McGregor Boyall
+Description: Solaris BAU Support  City of London  Investment Bank  ****  Package Our client, a leading investment bank, is looking for an experienced Unix Support Specialist responsible for delivering BAU support for a specific business line. Responsibilities will include but will not be limited to: Install, configure, monitor, upgrade and troubleshoot all Unix Environments as well as conducting monitoring/tuning, and capacity monitoring/planning. We are ideally looking for someone who has investment banking or similar as well as the following technical knowledge:  Solaris (**** **** ****)  BMC Patrol  Big brother  Tivoli  Sun Spark  B**** E**** and X**** Servers  Veritas Foundation Suite (Cluster Management, Volume Manager, etc)  Sun Hardware To be considered for this role please forward your CV or call Andrew. Solaris BAU Support  City of London  Investment Bank  ****  Package.

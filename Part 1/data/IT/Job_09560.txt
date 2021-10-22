@@ -1,0 +1,3 @@
+Title: C ASPNET Developer  Web Services, MVC, Agile
+Webindex: 70732689
+Description: .NET DEVELOPER  asp.net, c/.net, webforms, web services, agile, mvc Experienced C/ASP.NET Developers required to work for a global leader in the Travel Industry. You will get to work on one of Europe s largest eCommerce site working with a dedicated team. Requirements:  ASP.NET experience  Agile/Scrum methodology  Web Services using .NET, C, MVC, HTML  Test Driven Development (TDD)  Thorough experience of developing ASP.NET web sites  Ability to write high performing software. In return you will get to work with an exciting company who are offering a competitive salary and benefits package

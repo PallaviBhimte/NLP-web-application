@@ -1,0 +1,4 @@
+Title: MS BI Developer
+Webindex: 71594016
+Company: SystemsAccountants
+Description: Microsoft BI Developer (SSAS) Location: North London Salary: ****  **** Role type: Permanent Our Global client is looking for a Microsoft BI Developer with a focus in Analysis Services (SSAS/MDX). You will be responsible for designing and developing multidimensional models, including the construction of Data Views, Dimensions, Cubes and MDX queries. The successful candidate will also have vast experience in designing and developing SSRS reports, performing unit testing of codes and analysing data quality issues. If you have the skills and experience to be considered for this role, please contact Gary Dunion of SystemsAccountants or email.

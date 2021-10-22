@@ -1,0 +1,4 @@
+Title: IT developer
+Webindex: 69022328
+Company: Manvers Recruitment
+Description: The role IT Developer for predominantly design and build of web sites but will include exposure to back end systems and technologies and digital printing systems. As a digital printing company we have clients who are keen to reduce the amount of paper based communication and move more to providing this material online. This can both cut costs and help them meet environmental impact targets. SQL Server 2008 The person Technically minded and enthusiastic developer Good communicator and interpersonal skills Good at problem solving An eye for detail Essential candidate requirements Technologies used .Net Framework **** VB.Net 2010 ASP.net 2010 Visual Studio 2010 Javascript HTML

@@ -1,0 +1,4 @@
+Title: NET and SQL Server Developer
+Webindex: 70769979
+Company: DMA Group
+Description: DMA are looking for an experienced .NET Developer to join a small development team within a succesful, growing software house just south of Chester. You will be working on the .NET platform using ASP.NET (VB.NET) developing applications for commercial clients. It is also essential that you have a strong level of SQL Server development as this is a key part of the role. If you have knowledge of security within IIS, this will be an advantage. The company are regularly enhancing their range of products for their long standing clients, so customer relationship is key and working with them to identify product improvements is an important part of the role. The ideal candidate will have at least 3 years of .NET and SQL Server development experience

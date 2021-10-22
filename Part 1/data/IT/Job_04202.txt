@@ -1,0 +1,4 @@
+Title: Fixed Income Application Support  Rates/Bonds
+Webindex: 68627315
+Company: Scope AT Limited
+Description: Fixed Income Rate Application Support Analyst/Production Support/Service Management  BONDS/RATES ETRADING Finance/Investment Banking. Top Tier Investment Bank requires a strong Front Office ETrading Support analyst to work within the Rates Business area. The role is primarily there to help support the traders and business users including a new business stream and shall involve some elements of PM work as well as your more convential application support. The role requires strong business knowledge including; EMarkets Market Data Pricing PnL calculations Risk Valuations Excellent Technical skills are also a prerequisite; SQL Scripting (Perl/bash/Shell) UNIX or Windows Databases Some ION Marketview exposure is of benefit

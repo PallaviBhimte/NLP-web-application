@@ -1,0 +1,4 @@
+Title: C and C++ Mobile Application Developer
+Webindex: 64787272
+Company: IC Software
+Description: C++ Mobile Application Developer (Symbian) A leading technology client based in Scotland are looking for a C and C++ Mobile Application (Symbian) Developer. You will be responsible for the end to end development of mobile applications on various Nokia (Symbian) and Samsung mobile platforms. Key Skills:  Strong application level development experience in C and C++  Symbian Mobile C++ development and Qt  Carbide, Eclipse C++ Mobile Application Developer To be considered for this C++ Mobile Application Developer position apply with an up to date CV. IC Software  your first contact for Embedded, DSP & Software jobs.

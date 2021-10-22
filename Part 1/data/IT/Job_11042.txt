@@ -1,0 +1,4 @@
+Title: NET Developer Ecommerce  Walsall
+Webindex: 71469971
+Company: David Miles Associates Limited 
+Description: DMA are looking for a .NET C Developer to join a multi national organisation. The role will be based in Walsall at one of their new sites. The ideal candidate will have a passion and show enthusiasm for online development. The role will involve designing, building and maintaining scripts, programs, interfaces and databases. This is a handon development role within a successful ecommerce team. You will be developing new websites and developing the content of the main company website using a content management system in ASP.NET. Key skills required: Minimum 2 years commercial development experience ASP.NET, ASP C SQL Server HTML Javascript CSS Understanding of Ecommerce Adobe Creative Suite Experience in content management systems Desirable skills: Microsoft qualification Mobile development in IOS or Android

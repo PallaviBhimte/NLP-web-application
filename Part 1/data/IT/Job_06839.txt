@@ -1,0 +1,4 @@
+Title: Extreme Programming Developer
+Webindex: 69043276
+Company: Clearwater People Solutions
+Description: Our client is looking for an experienced XP Developer to work in Brighton. We will be looking for someone who is extremely experienced within Extreme Programming, Object Oriented Programming and Test Driven Development. Strong C, VB.net, ASP.net and WCF will be desirable and knowledge of BDD is nice to have. If you have experience of contributing to Open Source this would be another excellent point to have on your CV for our client. Agile and Scrum knowledge would also be an advantage. If you feel that you have the above skills then please do apply and I will contact any relevant candidates to discuss the role in further detail. This job was originally posted as www.cwjobs.co.uk/JobSeeking/ExtremeProgrammingDeveloper_job****

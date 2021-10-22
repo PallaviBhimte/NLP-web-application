@@ -1,0 +1,4 @@
+Title: ASPNet Developer C
+Webindex: 67903223
+Company: Pytec IT Recruitment
+Description: A Communications Solutions provider in Birmingham requires an experienced ASP.Net Developer with C experience to join their team. Joining this dynamic and fast growing company you will develop a variety of business tools and develop a customer web portal which will include testing & maintaining software, providing internal and external development support and estimating timescales for development projects. As a strong programmer it is essential you have solid ASP.Net MVC, C, HTML, SQL and Webforms experience with excellent communication skills, good interpersonal skills and strong time management skills. The successful candidate will ideally be qualified to degree level and have gained a Microsoft accreditation i.e. MCSD. Experience with AJAX and/or JavaScript is also beneficial

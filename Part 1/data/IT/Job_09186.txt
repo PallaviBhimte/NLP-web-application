@@ -1,0 +1,4 @@
+Title: C Developer (Winforms/WPF)  IB  Futures IT
+Webindex: 70455788
+Company: Scope AT Limited
+Description: C WPF Developer  Top Tier Investment Bank  Futures IT Ongoing development, upgrade and design of next generation trading platforms  including high touch, low touch and no touch capability. Key Duties Include; Developing customizable HP UI for multiple asset classes. Contribute to the architecture 3rd line support where required Own issues and drive solutions Innovation and design of the next gen platform Work closely with the business users to develop technical requirement. Key Skills; Excellent C Winforms and WPF Experience of developing trading systems UI if possible. Understanding of Equities, options and futures TDD Performance optimization Understanding of Back End systems Not  ASP and Web development

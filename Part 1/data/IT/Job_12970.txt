@@ -1,0 +1,4 @@
+Title: Computer Forensic Analyst
+Webindex: 72160761
+Company: Cititec Associates Limited
+Description: I am currently looking for a Digital Computer Forensic Analyst to join a Risk IT Forensics team. Experience: Ideally you will have come from a digital forensic analyst background. Internet forensics: Experience with HTTP/HTML, Javascript, Web Services, Scripting, TCP/IP, ASP, AJAX, Java Other skills: Electronic discovery, evidence preservation. Live memory and malware forensics IT incident management Phishing and Internet crime response System design and engineering Database or software development

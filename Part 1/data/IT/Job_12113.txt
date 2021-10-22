@@ -1,0 +1,4 @@
+Title: C/Net (MVC/TDD) Developer
+Webindex: 71761081
+Company: Opus Recruitment Solutions Ltd
+Description: C/TDD/MVC/IOC/Unity/Castle Windsor. Opus Recruitment Solutions require an experienced .net developer for one of the most reputed clients in the Yorkshire region. Working alongside likeminded developers, you will be responsible for developing enterprise wide applications using MVC****/**** and C in a heavy agiledriven environment (TDD). Experience with the likes of Dependency Injection, IOC, Unity and Castle Windsor would also be deemed favourable. This is an immediate position so please apply now to avoid missing out. This job was originally posted as www.cwjobs.co.uk/JobSeeking/C%****NetMVCTDDDeveloper_job****

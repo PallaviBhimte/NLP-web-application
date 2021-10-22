@@ -1,0 +1,4 @@
+Title: Performance Test Engineer
+Webindex: 68628159
+Company: Reed Technology   London Permanent
+Description: This role is for a Performance Test Engineer to work closely with application developers in developing performance test scripts. Reporting to the Performance Test Leader you will be involved in implementing Quality Assurance policies, developing performance test frameworks, preparing and executing integration test scripts and improve endtoend performance scripts. Skills and Attributes:  Previous experience within a high level testing environment  Proven commercial experience in Microsoft .NET (C)  Development experience within sequential and iterative environments  Previous experience with SQL Reed Specialist Recruitment Limited is an employment agency and employment business.

@@ -1,0 +1,4 @@
+Title: Application Support Analyst  Retalix
+Webindex: 71774723
+Company: Advento Staffing Ltd
+Description: Application Support Analyst required to provide 2nd line support on business critical Retalix applications within an ITIL environment for a major UK employer and the opportunity to assist with development projects. You will be taking calls from the helpdesk and solving the technical problems if possible or escalating them where necessary to the 3rd party development teams whilst still project managing the problem through to resolution. You may be involved in testing activities and upgrade projects working closely with the development and implementation teams. Technical background required is basic understanding of EPOS systems or other major COTS applications but preferably Retalix v**** (moving to v****), MS SQL Server 2002008, Windows clients. Comprehensive career development, support and training along with a bonus scheme and benefits.

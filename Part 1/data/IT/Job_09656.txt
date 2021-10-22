@@ -1,0 +1,4 @@
+Title: Database Administrator  SQL Server
+Webindex: 70770495
+Company: OSM
+Description: SQL Server DBA (Database Administrator) is required to join an already established team of contractor and permanent DBA s for an initial 3 month contract based in West Yorkshire. You may be able to work remotely from timem to time dependent on project work. My client is looking for candidates who ideally will have data migration experience coupled with the following skills: Strong SQL server 2008/ **** SSIS (SQL Server Integration Services) TSQL scripts Replication Clustering / Failover Performance management merger replication Knowledge of Oracle, Sybase other data stores would be useful, any network / infrastructure knowledge would be good. Contract 3 months initially but will likely run until July / August. For full details on this new post please submit your cv in the first instance

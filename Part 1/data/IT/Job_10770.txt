@@ -1,0 +1,4 @@
+Title: Technical Manager  Systems Architect
+Webindex: 71335875
+Company: Venquis Limited
+Description: Insurance Company are seeking a Technical Manager/Systems Architect to lead a team of .NET developers based in the City. Candidates must have come from a .NET background with a great understanding of SQL, data and design patterns. Although a technical role, the candidate must have great stakeholder management skills and be able to liaise with C level suite and translate IT views. The ideal candidate must have insurance experience working in a vibrant, fast paces, cutting edge, forward thinking and entrepreneurial environment. Candidate must have Insurance experience

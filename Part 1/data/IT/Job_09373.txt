@@ -1,0 +1,4 @@
+Title: C++ Risk Engine Developer
+Webindex: 70623204
+Company: iKas International
+Description: A Global European Investment Bank is currently looking to hire a C++ Developer to join a cross asset risk calculation team. The successful candidate will be working on a brand new pricing and risk application in C++. This is an excellent opportunity to build out a very high profile system working directly with the quant and IT teams. Highly competitive package and career progression on offer for the right candidates. To apply for the role you will have exceptional C++ skills with **** year commercial experience in high performance development (Computer science background advantageous). Please send your CV to Nadia Abdulla or call me on for more details. Ikas International Ltd is acting as an Employment Agency in relation to this vacancy.

@@ -1,0 +1,4 @@
+Title: IVR Manager
+Webindex: 69019073
+Company: OSM
+Description: IVR Manager is required to join a leading blue chip organisation in Leeds city centre. The role will be to maintain the integrity of the applications ensuring compliance is met and QA is adhered to. You will be working with developers and testers; mentoring and contributing to technical capabilities whilst being invloved in ongoing relationships with customers / suppliers by acting as single point of contact. We are looking for a manager / team leader with at least 2 years exerience developing and leading dynamic speech enabled applications. IVR Systems Voice XML Speech recognition Grammar isa plus (GRXML) For full details on this new post with full package breakdown please submit your cv in the first instance

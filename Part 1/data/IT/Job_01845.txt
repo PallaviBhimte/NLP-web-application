@@ -1,0 +1,4 @@
+Title: C / MVC / Net Developer
+Webindex: 67650622
+Company: Focus Select
+Description: South East based client is looking for a C and .net framework developer with at least 4 years experience. Essentially you must have excellent knowledge of Asp MVC and Asp.net, evidence of using TDD (e.g. use of Nunit and Rhino Mocks), experience of developing Web Services, use of ORM tools such as Nhibernate or Entity framework and experience of JQuery. Ideally you ll have a good understanding of Object Orientated Design and Design patterns in general (DI for example). This is a permanent role, which offers flexible working hours, great pension and a basic salary of **** per annum

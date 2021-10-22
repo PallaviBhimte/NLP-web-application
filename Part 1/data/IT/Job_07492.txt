@@ -1,0 +1,4 @@
+Title: SQL OLTP Developer
+Webindex: 69268497
+Company: Mortimer Spinks Ltd T/A Harvey Nash
+Description: SQL Developer TSQL Complex Stored Procedures My client are global online/ecommerce company who require an exceptional SQL Developer to join their team. The key focus of this role is to work with the Principle Database Engineer to design and implement new functionality on my clients applications. Main Responsibilities Developing data structures to design and business requirements Creating complex stored procedures in AQL **** You must have A strong understanding of TSQL, MSSQL ****/****/2012 Strong experience in writing TSQL and stored Procedures using SLQ ****/****/2012 Amazing opportunity apply now

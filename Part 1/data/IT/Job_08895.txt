@@ -1,0 +1,4 @@
+Title: CNet Developer  Sheffield  ****p/d
+Webindex: 70099595
+Company: Progressive Recruitment
+Description: My client requires a C.Net developer for an inital 3 month contract in Sheffield. The suitable developer will be expected to hit the ground in a fast paced environment working on an enterprise level application. The work is predominantly greenfield with some brownfield development to be done during. Key skills: C.Net ASP.Net MVC (Razor) WCF (REST, SOAP) Entity/LINQ JQuery JavaScript/HTML/CSS Agile  TDD Desirable: Source Control  TFS or SVN AJAX If this is of interest to you please apply ASAP or give Sam Burton at Progressive IT a call on [blocked] Regards,To find out more about Progressive Recruitment please visit www.progressiverecruitment.com

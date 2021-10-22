@@ -1,0 +1,4 @@
+Title: software development
+Webindex: 69017017
+Company: Soloman
+Description: experianced technichal lead projects manager Overall Responsibilities: Develop solutions that are endtoend and decomposing the endtoend solution into workable modules Translate business requirements to technical solutions Coordinate with business stakeholders for commitment and fulfillment of work requests Coordinate across all technical aspects of solution development including coding, infrastructure, testing, and deployment Mentor to onshore/off shore team members in appropriate design methodologies Participate in Support activities as needed and provide appropriate support documentation Provide input to training and testing teams Qualifications Qualifications: BS in Computer Science or related study in addition to technical background likely to include lead and expert level experience designing and developing in: o Java/J****EE o EJB including CMP o JSP

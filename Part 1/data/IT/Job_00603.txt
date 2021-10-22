@@ -1,0 +1,3 @@
+Title: PHP / CakePHP Developer
+Webindex: 65171223
+Description: My client, a fully integrated digital agency in Surrey is on the lookout for a skilled PHP Developer who has experience with CakePHP You do not need to be a CakePHP Developer but you need to have at least worked on **** solid project where you used this framework My client has had a huge amount of projects come in and they need the extra resource immediatelyRequirements:PHP and MySQLCakePHP XHTML and CSSJavascript / jQueryNice to haves:HTML5 and CSS3PHP MVC Frameworks (zend / codeIgniter)DrupalIf you`re available and interested in a new opportunity Please get in touch immediately as my client is eager to get someone on board right now

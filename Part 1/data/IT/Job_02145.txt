@@ -1,0 +1,4 @@
+Title: Senior Software Engineer C/Net/SQL Server
+Webindex: 67903216
+Company: Pytec IT Recruitment
+Description: Software house in MK looking for an experienced software engineer to join a busy and exciting development team. With a development, analysis and design background you will have proven experience using C, .Net and SQL Server with Winforms, WPF and MVVM development skills. This is a great opportunity for a strong engineer with a general interest in coding, someone with excellent communication skills and an energetic and enthusiastic approach when working in teams and alone

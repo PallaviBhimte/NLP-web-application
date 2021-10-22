@@ -1,0 +1,4 @@
+Title: Oracle PL/SQL & Forms ****g/****g Developer
+Webindex: 69158370
+Company: Proactive Appointments
+Description: Our client requires an Oracle PL/SQL Forms ****g/****g Developer for a permanent position based near Milton Keynes. You will be involved in design, configuration, and development and testing using both PL/SQL and Forms technologies. You will be migrating Forms to version ****g as well as getting involved in ETL and APEX. This role requires excellent communication skills and a good team player. Due to the volume of applications received for positions it will not be possible to respond to all applications and only applicants who are considered suitable for interview will be contacted. Proactive Appointments Limited operates as an employment agency and employment business and is an equal opportunities organisation.

@@ -1,0 +1,4 @@
+Title: Intranet/Extranet Development Support
+Webindex: 72546818
+Company: Wise Employment
+Description: Wise Employment are looking for Internet/ Extranet Development Supporter, the right candidate must have an understanding and working knowledge of web based processes within a retail environment to support a busy team based on the outskirts of Plymouth. Essential skills needed; HTML, ASP Network Framework, C, Java Script, SQL database administrative skills, TSQL & Oracle. The right candidate will have the ability to logically troubleshoot problems in existing/ older applications. Have experience in documenting developments and the implementation of change control and present data / development to all levels of business. This position is temporary to permanent

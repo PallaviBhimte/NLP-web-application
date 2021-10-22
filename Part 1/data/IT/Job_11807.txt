@@ -1,0 +1,4 @@
+Title: New Position  Senior Software Test Engineer ( QA )
+Webindex: 71707505
+Company: Redrock Consulting Limited
+Description: Our client is looking to employ a senior QA Test Engineer. The successful candidate will have at least 3 years hands on experience with functional, integration, regression and UAT testing and have exposure to test lead responsibilities in previous roles. The candidate must have a working knowledge of writing and executing test plans and test cases and be able to log and take ownership of the resolution of software defects. Previous experience working with complex databases and writing SQL for test purposes is also expected. Testing within an Agile/Scrum environment, client facing experience and experience testing Dimensional/Kimball data warehouses and exposure to automated testing are also desirable.

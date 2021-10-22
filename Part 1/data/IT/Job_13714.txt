@@ -1,0 +1,4 @@
+Title: Java Developer Java / Linux  Dorset circa **** , ****
+Webindex: 72460121
+Company: Bond Williams Limited
+Description: Java Developer Java / Linux  Dorset circa **** Java Developer required to work on the server and API layers of a revolutionary new product. This is a permanent role working within our clients development centre in Dorset. Great opportunity to join fast growing company at early stages of a fantastic future in the finance sector. Suitable candidates should have proven experience in most (if not all) of the following: 3rd Party Client Interface Java ORM/Hibernate Linux Spring Hudson Continuous Integration Web Services SQL (Oracle or MySQL) TDD (JUnit and DbUnit) Also desirable but not a prerequisite: Banking and Finance experience. Amazon cloud (AWS) experience. Bond Williams Professional Recruitment are an equal opportunity employer and operate as an Employment Business and Recruitment Agency

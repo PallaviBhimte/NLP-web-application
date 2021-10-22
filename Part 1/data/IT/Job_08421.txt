@@ -1,0 +1,4 @@
+Title: System Administrator, Linux
+Webindex: 69691336
+Company: Interquest Group
+Description: Solaris and Linux Systems Administrator for a project delivery role; configuring and delivering Solaris and Linux based server environments and services. You will already have significant experience of working in a major enterprise environment and proficiency in Solaris and Linux server admin skills (Solaris, RedHat/SUSE) is a must. Excellent knowledge of Veritas Volume manager, Veritas Cluster Server and Oracle Real Application Clusters (RAC) is required. You will need the ability not only to install and support the products but also pass on your skills to colleagues. You will need to have experience with IBM and HP hardware with SAN and NAS storage solution. SBS acts as an employment agency and an employment business

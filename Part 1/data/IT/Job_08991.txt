@@ -1,0 +1,4 @@
+Title: Oracle DataWarehouse (Junior/Mid Level needed)
+Webindex: 70219993
+Company: Correlation Point
+Description: Local Consulting Company  Oracle and Informatica Partner looking for up coming talent   CAREER GROWTH A lot of work here locally in DFW  but willingness to travel necessary  Need **** Staff Consultants Level  Oracle DataWarehouse 7595k  bonus 35 years experience in Oracle DB DataWarehouse o Oracle DB and Oracle DW/BI experience o Oracle OBIEE experience (although this can change project by project, meaning I might sometimes have instead a need for Business Objects, Microstrategy, Cognos, Tableau, etc.) o Oracle OBIA experience o ETL layer experience (predominantly interested in Informatica PowerCenter, but also Oracle Data Integrator)

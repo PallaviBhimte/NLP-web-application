@@ -1,0 +1,4 @@
+Title: Data Architect  Data Quality London
+Webindex: 71774452
+Company: Alexander Ash Consulting Ltd
+Description: For this large Bank we are looking for a Data Architect with strong Data Quality experience to join a Platform Architecture team. You will also have strong and reference data/governance experience. Previous banking experience is not compulsory but you will have experience working on large scale, complex projects.

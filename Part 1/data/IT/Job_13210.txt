@@ -1,0 +1,4 @@
+Title: Senior PHP Developer  London
+Webindex: 72248435
+Company: Sanderson Recruitment
+Description: Senior PHP Developer London Senior PHP Developer required for a leading digital firm based in central London. As a Senior PHP developer you will be working on in the development of the companys front and back end application service operations in an agile development framework to agreed standards and timescales. The Senior PHP Developer will be responsible for the Day to day management and deliver business plan in timeframes and budgets. The right candidate will have extensive experience using: LAMP (Linux, Apache ,MySQL, PHP). HTML5, CSS3 and JQuery PHP, class design patterns and other object oriented coding skills. Experience of the full software development lifecycle: from requirements gathering and functional specification authoring, to development, testing and delivery.

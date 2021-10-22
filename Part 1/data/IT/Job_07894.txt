@@ -1,0 +1,4 @@
+Title: Database Engineer
+Webindex: 69552813
+Company: Three way solutions
+Description: Our client needs a person who can help build systems on social networks at a high quality scalable and high performance to meet their demands of their growing company. It is essential that the applicant is familiar with MS SQL SERVER DBA version **** and above. Extensive experience of managing large volume high transaction data bases, being a Microsoft certified engineer in SQL server is not essential but candidate must demonstrate excellent knowledge in these areas. A knowledge of nhibernate is desirable. Experience in social games development would be ideal. 40 Hours per week, MondayFriday. Please apply by either email sam.gaukrogerthreewaysolutions.co.uk or telephone **** **** ****

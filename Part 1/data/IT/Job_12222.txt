@@ -1,0 +1,4 @@
+Title: Mid Level Front End Developer
+Webindex: 71774962
+Company: Opus Recruitment Solutions Ltd
+Description: MidLevel Front End Developer My client an established luxury retailer is looking for a mid level Front End Developer to join their web team. As part of this role you will work very closely with the lead developer in creating cross browser compatible HTML, CSS, JavaScript. You will also be involved in advising on the design decisions and the best technical approaches for projects. Skills required:  HTML  CSS  JavaScript  JavaScript Libraries (jQuery, YUI)  Excellent English verbal and written Desirable skills:  HTML5  CSS3  SASS, Less  Ecommerce experience  Exposure to Magento and CMS My client is offering an extremely competitive salary and benefits package with a great opportunity for skills and career development. If this role is of interest please send your CV and portfolio to arrange an interview.

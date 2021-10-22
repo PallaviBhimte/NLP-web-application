@@ -1,0 +1,4 @@
+Title: SharePoint Systems Engineer  SharePoint / IIS / UAG  London
+Webindex: 71855913
+Company: JNC Recruitment Ltd.
+Description: SharePoint Systems Engineer  SharePoint / IIS / UAG  London Based in the heart of Central London, our client has an urgent requirement for a Sharepoint Systems Engineer who can support both Systems and Webbased Applications within a large corperate environment. Role Responsibilities:  Troubleshoot and resolve system service failures  Develop, install and test new web based and business technologies, software releases, system upgrades, evaluate and install patches.  BAU Systems Support  Test applications and assist in providing fixes and system enhancements. Essential Skills Experience:  Microsoft SharePoint **** / 2010  IIS  UAG (Unified Access Gateway)  ITIL

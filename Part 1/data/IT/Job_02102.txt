@@ -1,0 +1,3 @@
+Title: SQL Report Writer and ERP Manager
+Webindex: 67829452
+Description: My client are a market leader in their field and are currently looking to recruit for someone with a wide range of skills to do an integral role in the business. You will need to have strong SQL server skills with strong SSRS, SSIS and SSAS as well as having a good knowledge or ERP systems as there will be a large amount of work required with the internal system. Any other technical skills would be an added advantage. You will need to have strong communication skills as there will be a lot of communication required with other areas of the business as well as some external clients. This is a fantastic opportunity to join a growing business and get into a very interesting and challenging role.

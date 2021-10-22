@@ -1,0 +1,4 @@
+Title: Clinical Data Manager  SQL Server
+Webindex: 71856406
+Company: DawsonHill Limited T/A BIAARS
+Description: A Clinical Data Manager  SQL Server required to assist on greenfield projects where you will be designing databases structures, importing new datasets and creating ongoing maintenance routines. For the Clinical Data Manager  SQL Server role it is essential that you have extensive knowledge of Microsoft SQL Server and have good exposure to a variety of BI tools. Ideally you will have a background of working in the NHS or similar field and some knowledge of clinical datasets. Any certifications in MS SQL Server would be highly beneficial. For more details on the Clinical Data Manager  SQL Server role and a full job description please apply for immediate consideration.

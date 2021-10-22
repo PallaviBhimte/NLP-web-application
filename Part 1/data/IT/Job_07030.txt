@@ -1,0 +1,4 @@
+Title: Business Intelligence Developer  Team Lead
+Webindex: 69146204
+Company: Accenture
+Description: Accenture is currently initiating various programmes on behalf of our clients which require significant technology delivery. To facilitate this demand we are seeking strong Business Intelligence developers with the capability to apply technical knowledge and consulting experience to our large programme schedule with in the UK Delivery Centre (UKDC). We are most interested in individuals with the following technical skills: • ETL and Data Cleansing • MI • Data Warehouse and Metadata Management • Database Management Systems • Master Data Management solutions (e.g. Siperian, Tibco CIM) • CRM/eCRM Analytics and Data Mining Other Requirements • Proven abilities to work creatively and analytical in a problemsolving environment • Previous experience working with a consulting environment using PMO methodologies and systems Experience of leading teams

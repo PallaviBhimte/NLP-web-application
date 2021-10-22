@@ -1,0 +1,4 @@
+Title: Junior Programmer
+Webindex: 68550340
+Company: Matchtech
+Description: For this role the Junior Programmer will be involved with the creation and replication of outpatient letters as part of an ongoing PAS (patient administration system) implementation project. You will be using page layout language to recreate templates which will consist of inserting commands into a database. You will need previous experience within a programming environment ideally with previous experience within the NHS. Technical skills with SQL are also highly beneficial for this position. This role is to start ASAP and will pay ****HP (PAYE) or **** per hour (ltd/umbrella). To apply for this position, candidates must be eligible to live and work in the UK Matchtech is acting as an Employment Business in relation to this vacancy.

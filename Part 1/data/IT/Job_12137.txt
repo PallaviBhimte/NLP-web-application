@@ -1,0 +1,4 @@
+Title: SQL Developer, Database Developer, Visual Basic
+Webindex: 71774317
+Company: Bright Purple Resourcing
+Description: Visual Basic 2010, ADO.NET, SQL SERVER 2008, TSQL, Database Essential Skills:  Experience in development, testing and deployment of Visual Basic 2010 Windows solutions (including OOP development and ADO.NET).  Experience with SQL Server 2008 database development (including security and performance maintenance and TSQL stored procedure function coding).  Upgrade existing Visual Basic 2010 systems to changing business requirements and integrate additional third party software to bespoke business platform.  Enhance and maintain the existing SQL Server 2008 databases.  Design and implement solutions to changing business requirement. If you are interested in this role, please send me your CV ASAP.

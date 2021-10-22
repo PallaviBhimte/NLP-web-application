@@ -1,0 +1,4 @@
+Title: Database Analyst Developer
+Webindex: 71565071
+Company: McGregor Boyall
+Description: Insurance  Cardiff  Developer Analyst Our Insurance client based in the Cardiff is seeking a Database Analyst Developer to join their STS team. The team's primary role is to design, develop, support and maintain the CRM (Salesforce), BI (Qlikview) and emarketing (Communigator) tools on behalf of the IFA Sales teams. To apply for this role you MUST have: Expertise in SQL, Excel and Access Experience with SDLC and Agile Understanding of Kimball and Inmon BI methodologies Experience of CRM or BI development essential (Experience of Salesforce and/or Qlikview advantageous) Strong Experience of emarking tools Understanding of ETL tools  Proven programming background Insurance  Cardiff  Analyst Developer This job was originally posted as www.cwjobs.co.uk/JobSeeking/DatabaseAnalystDeveloper_job****

@@ -1,0 +1,4 @@
+Title: DevOps, Linux, Ruby, Agile, ****K, London
+Webindex: 71593500
+Company: Monarch Recruitment Ltd.
+Description: DevOps, Linux, Ruby, Agile, ****K, London DevOps, Linux, Agile, Jenkins, Ruby, Puppet, Chef Are you a Linux DevOps engineer? Do you want to work with an international online business? If so  this could a great position The successful DevOps/Linux Engineer will be developing deployment scripts, supporting products releases and production fixes. As the DevOps engineer you will be working closely with agile development teams, maintaining the integration environment, using deployment tools and maintaining Linux environments. What do you need?  Excellent core Linux server administration  Scripting  Ruby, Java, PHP  Experience with deployment tools  Chef, Jenkins, Git  Extensive web experience  Worked in agile teams If you have the above skills and want to work in a fast paced environment reporting to the DevOps Lead this could be a great position for you.

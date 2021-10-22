@@ -1,0 +1,4 @@
+Title: QA Engineer Automation Engineer  Content Release
+Webindex: 72545452
+Company: Neil William Associates
+Description: QA Engineer  Automation Engineer  Content Release X **** This multinational IT company is seeking Engineers to join their production team, engaged in the building, packaging, testing and releasing of internet security files and responsible for documenting processes and setting up workflow automation. The role:  Development an understanding and perform Production team s operational practices  Document operational practices and process flows to support a modular operational framework  Execute and support daily operational tasks  Write MySQL queries to produce reports  Undertake 1st line investigation and analysis  Experience/Knowledge  Perl Scripting  Windows and Linux administration  MySQL queries Desirable  PHP, HTML, CSS  Vertualisation technologies such as VMware  ISEB/ISTQB  ITIL v**** Foundation This is a 40 hour week shift based role

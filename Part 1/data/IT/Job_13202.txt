@@ -1,0 +1,4 @@
+Title: Application Developer  VB6 or VBNET or SQL Server
+Webindex: 72248361
+Company: Bright Purple Resourcing Ltd
+Description: Application Developer  VB6 or VB.NET or SQL Server A leading Financial Services firm based in Essex with excellent public transport facilities as well as private parking are looking for an Application Developer join their ever expanding team. The current platform is written in VB.NET with ancillary services written in .NET and Java. Minimum Skills and Experience required:  Experience developing in VB.NET OR related technology and willingness to learn VB.NET i.e. VB6  Experience with SQL Server 2005 (minimum)  OO Design and development experience  Experience of XML/XSLT or XSD Although not a core requirement it would be nice to have:  Experience with Service Orientated Architecture (SOA)  Knowledge of Java Please send your CV for immediate consideration or to discuss the role further.

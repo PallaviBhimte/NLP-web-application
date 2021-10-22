@@ -1,0 +1,4 @@
+Title: C Developer ASPNet MVC Javascript
+Webindex: 68346745
+Company: ITF Solutions Ltd
+Description: My Client is one of the top four financial services providers, based in London, focussing on global tax solutions delivery. They are currently looking for an experienced C / .Net developer. You will have at least four years hands on experience building, integrating and delivering web and windows applications using Microsoft and other technologies as well as an in depth knowledge of object oriented analysis and design principles and familiarity with many design patterns and software applications. Preferably educated to degree level, or substantial equivalent work experience, you will also have a demonstrable background in application design and construction, with the ability to design, test, build and deploy activities, providing documentation, support and training to end users.

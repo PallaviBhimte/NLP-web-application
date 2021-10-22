@@ -1,0 +1,4 @@
+Title: Informatica and Teradata Consultant
+Webindex: 71792741
+Company: S P A Enterprise Services Ltd
+Description: Bachelor’s Degree  Significant years of work experience in ETL architecture design in Informatica Tera Data  Work experience in TOAD, SQLLOADER, Tpump loader, Mload loader, Fast Load loader, Teradata SQl Assistant, SQL Query Analyzer, Star schema, Snowflake schema  Work experience on stored procedures, Functions using PL/SQL from Source systems into operational data storage Expertise in OLTP/OLAP System Study, Analysis and ER modelling using Erwin, developing Database Schemas like Star schema Snowflake schema used in relational, dimensional multidimensional modelling Work experience in Informatica PowerCenter Source Analyzer, Data Warehousing Design, Mapping Design 'Must have proficient in Teradata tools like BTEQ,FLOAD,MLOAD Good knowledge required on OBIEE, creating RPD’S Designing of Informatica mappings

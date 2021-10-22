@@ -1,0 +1,4 @@
+Title: Unix Administrator (AIX, Redhat Linux)
+Webindex: 68628644
+Company: Colston Consulting LLP
+Description: Unix Administrator (AIX, Redhat Linux) to circa ****k plus benefits  Winchester Unix Administrator required to ensure all Unix Infrastructure through provision of proactive and reactive technical support, to provide specialised advice or consultancy on UNIX related matters. Skills required Specifically Aix, Redhat Linux and IBM pSeries, also of interest would be Solaris, HPUX and Sun and IBM iSeries. You will provide technical support and consultancy to all UNIX Infrastructure (including Legacy platforms), Datacentre and IT facilities. You will have experience of Build, Configure, Install, Commission, Test and Deploy infrastructure in line with designs created by the technical team. This opportunity is with a growing organisation who are leaders in their field and offers a variety of exciting and challenging work.

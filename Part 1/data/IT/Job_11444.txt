@@ -1,0 +1,4 @@
+Title: HFM Administrator/Support Analyst
+Webindex: 71593248
+Company: SystemsAccountants
+Description: Hyperion Support Analyst required to maintain and review HFM system and maintenance of business rules/report scripts to support consolidation process. This is a role that will require technical support and development skills as well as strong functional skills to augment the current HFM model. Thsi role will sit between internal IT team and external Oracle Hyperion partner and Oracle directly. This will involve maintenance of business rules/report scripts, Metadata Management and Financial Data Quality Management. Responsible for Security Acces, user training, testing and support. Ideal candidate will have a number of years (****) HFM and FDM experience across development and functional support. Good VB and SQL as well as integration with GL and ERP systems combined with Qualified/Part Qualified accountancy background.

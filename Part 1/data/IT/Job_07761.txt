@@ -1,0 +1,4 @@
+Title: Java Developer  Multithreading, FIX, JVM
+Webindex: 69545494
+Company: DCM Select
+Description: Java Developer  Multithreading, FIX, JVM This leading Investment Bank is looking for an experienced Java Developer to join a team responsible for the development of a Derivatives Trading platform. As the successful Java Developer you will focus on the development of highly distributed realtime messaging software and it's delivery to the front office. You must have: a strong background as a server side Java Developer experience of building realtime low latency applications Agile Test Driven Development experience Desirable skills include: familiarity with caching technologies (Coherence, GemFire etc) experience of working on order or position management systems in an Investment Bank knowledge of KDB and JVM optimisation Java Developer  Multithreading, FIX, JVM This job was originally posted as www.cwjobs.co.uk/JobSeeking/JavaDeveloperMultithreadingFIXJVM_job****

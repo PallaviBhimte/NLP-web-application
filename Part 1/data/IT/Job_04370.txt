@@ -1,0 +1,4 @@
+Title: Senior Ruby Developers
+Webindex: 68628342
+Company: e resourcing Limited
+Description: Senior Ruby on Rails Developer with expanding market leading company in the City. You will be involved Back End development and internal system development projects and you will play a lead role in the design, development, testing, release, management and maintenance of various software solutions as well as mentoring junior team members and helping to improve Agile development processes. Technically you will had strong Ruby on Rails/RoR experience and have experience of ECMAScript and jQuery, Testdriven development (TDD), Git, CouchDB, Horizontal scaling and Agile/scrum. This is an exceptional opportunity to join a large team of talented, friendly Ruby developers working on major projects in an excellent technical environment.

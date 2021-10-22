@@ -1,0 +1,4 @@
+Title: Senior Java Developer (Finance, Concurrency, Low latency)
+Webindex: 69669590
+Company: Jobsite Jobs
+Description: Key skills: Core Java Multithreading/Concurrency/Low Latency experience Agile Our client, one of the fastest moving companies in the financial world are now recruiting multi skilled, senior Java developers. Their open source programming framework has won awards for innovation and their developers are a highly passionate unit that truly believe in the company vision. They are extreme advocates of agile methodologies and their Java Developers frequently do pair programming and use best clean code practices to deliver high quality and reliable software. Their developers are encouraged to regularly speak at conferences, deliver talks, contribute to open source journals and be active community members. If you are passionate, have a love for agile practices and all things open source then our client would love to hear from you.

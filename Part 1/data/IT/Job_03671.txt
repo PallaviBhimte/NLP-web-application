@@ -1,0 +1,4 @@
+Title: ASPnet developer  Sheffield
+Webindex: 68448875
+Company: Egton Medical Information Systems.
+Description: Emis are recruiting for an ASP.NET Web Developer to join a vibrant and dynamic Development Team in Sheffield. You will be joining the business at a key time, as it looks to integrate several websites into one core proposition and develop the technology web platform to the next level. You will need at least 2 years of commercial ASP.NET development experience working in a web development team,including ASP.NET VB.NET or C, Classic ASP, MS SQL Server along with other Microsoft web technologies  Web Service Enhancements, SOAP,XML,XSLT, MSMQ, frontend coding skills including HTML5,CSS3, Java script JQuery Ajax, migrating a classic ASP site to ASP.NET,implementing security measures SQL injection,crosssite scripting etc and working within a 3tier server architecture. Please email your CV to recruitment emis.com.

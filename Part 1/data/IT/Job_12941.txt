@@ -1,0 +1,4 @@
+Title: ****x SQL Server Developer  TSQL  SSIS
+Webindex: 72160585
+Company: TechNET IT Recruitment Limited
+Description: 2x SQL Server Developer  TSQL  SSIS My client is a leading Ecommerce company based in Central London . They currently have two vacancies in their database team, and are looking for permanent staff to join with salaries ranging **** across the two positions, depending on experience. The successful candidates will have very strong SQL Server database development experience, preferably having worked on high availability/high transactional satabase systems. Applicants will ideally have worked with the following technologies: SQL Server 2005/****/**** TSQL database design and development SSIS SSRS SQL performance tuning

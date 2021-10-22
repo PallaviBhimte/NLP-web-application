@@ -1,0 +1,4 @@
+Title: Linux Administrator
+Webindex: 69044534
+Company: I.T. Skillfinder
+Description: A leading Retail Company are looking for a Systems Administrator to join their team based in Maidstone. You will be working as part of a team of System Administrators, with a particular focus on Ecommerce Infrastructure. You will be working alongside the eComerce Technical Manager to ensure that all Ecommerce environments, including production, are available and performant. The role will have in depth knowledge of the following skills: Linux of other flavours of Unix Apache MySQL or other related Databases PHP This job was originally posted as www.cwjobs.co.uk/JobSeeking/LinuxAdministrator_job****

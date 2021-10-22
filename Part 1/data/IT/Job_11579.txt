@@ -1,0 +1,4 @@
+Title: Junior Web Developer/net Developer/C
+Webindex: 71594623
+Company: Monarch Recruitment Ltd.
+Description: Junior Web Application Developer/.net Developer/C ASP.NET/VB.NET/C/CSS/Web Services/Ajax/XML/MVC/SQL Server I am currently looking for talented junior web application developers to join a great client in Hampshire as they embark on a challenging new phase of product development. The environment is informal but hardworking and challenging and developers are actively encouraged to participate in key design decisions where you will develop and define core functionality whilst also maintaining and upgrading existing systems' architecture and frameworks. This is ideal for someone looking to expand their technical skills with a variety of technical challenges. Essential: ASP.NET (v **** and above) VB/Net CSS IIS Web Services Ajax XML MVC SQL Server would be highly beneficial

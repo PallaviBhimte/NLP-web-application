@@ -1,0 +1,4 @@
+Title: Apple iOS / Objective C iPhone App Developer
+Webindex: 72695847
+Company: 1st Choice Computer Appointments Ltd
+Description: We have an immediate requirement for an iPhone developer. Must be able to work in objective C and latest version of xCode and iOS  No OpenGL experience necessary. Must have recent experience, or at least feel able to pass a test set by ourselves. Interview process is initial phone interview followed by an onsite interview and **** hour test. Experience of android development is desirable but not required. Preferable to work in the Sevenoaks office 5 days a week, but we can negotiate some working from home if required, i.e. 2 days in the office 3 days at home after initial probation period.

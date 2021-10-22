@@ -1,0 +1,4 @@
+Title: Senior Java Developer  Etrading
+Webindex: 69572868
+Company: Cititec Associates Limited
+Description: Good Java developer with strong business understanding required to work on trading algorithms and the platform in which they run, in order to enhance the profitability and client service provided by the Interest Rate trading desks Globally Skills Required Strong Java Some C++ Some Q/KDB Understanding the needs of a trading desk Prioritisation and concentration in a sometimes hectic environment Skills Desired Complex Event Processing Interest Rate business knowledge FIX

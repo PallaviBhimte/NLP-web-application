@@ -1,0 +1,4 @@
+Title: Junior SQL Developer
+Webindex: 55409436
+Company: JOBG8
+Description: Junior SQL Developer with ****3 years experience and knowledge of MS SQL server development is essential.  Must have ****3 years experience of SQL Development with SQL Server (**** and ****) R2.  Experience with and an ability to review and analyse complex stored procedures, TSQL  SSIS, SSRS and SSIS  ETL  Database Design & Development.  Data migration experience is also essential and you will have Ideally developed BI reporting using SSRS and additionally some .NET and MS Dynamics AX experience would be very welcome. My client will give Dynamics AX training providing you know the basics.

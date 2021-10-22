@@ -1,0 +1,4 @@
+Title: QA Engineer (Test / Agile)  London
+Webindex: 71444078
+Company: ReThink Recruitment Solutions Ltd
+Description: QA Engineer/Test Engineer/Selenium/Agile/TDD/BDD/Automated Test. My client is a leading online organisation and they looking for a QA Test Engineer to join their rapidly expanding team. You will be responsible for testing high transactional web based Ecommerce applications in a heavily agile/scrum/sprint environment. You will have a solid track record of both Manual and Automated Testing (Selenium RC, Webdriver, Cucumber) ideally in transactional ecommerce environments . You will also have an understanding of TDD or BDD with commercial experience working with Scrum or any other Agile methodology. An understanding of objectoriented principles and the ability to write simple code in at least one OO language would be advantageous. QA Engineer/Selenium/Agile/TDD/BDD/Manual/Automated TestWe are acting as an Employment Agency

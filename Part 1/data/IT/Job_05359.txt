@@ -1,0 +1,4 @@
+Title: MVC Web Developer
+Webindex: 68700196
+Company: Omni Resource Management Solutions.
+Description: MVC Web Developer Location: Rochdale Salary: ****  **** plus benefits We are recruiting for an MVC **** Web Developer to join the team in Rochdale. Successful candidates will have a proven background with C and ASP.NET, with Object Orientated Design principles. You will ideally have an understanding of .NET architecture. The following skills will be required:  ObjectOriented Design principles  Strong understanding of .Net architecture  Ninject and knowledge of Dependency Injection  C  MVC **** LINQ, WCF  JQuery  Visual Studio 2010  TSQL, SQL Server 2008  iPhone Development For more information please hit the apply button below This job was originally posted as www.totaljobs.com/JobSeeking/MVCWebDeveloper_job****

@@ -1,0 +1,4 @@
+Title: Umbraco Net Developer  Brighton
+Webindex: 66925805
+Company: Evolution Recruitment Solutions
+Description: Umbraco developer is required to join a market leading digital agency based in their Brighton office. To qualify for the role it is important that you have exposure with the following: Umbraco C/ASP.NET SQL LINQ nUnit GIT VS 2010 ReSharper Ideally you have exposure with some of the following: .NET**** JQuery TDD Mocking NHibernate TSQL This is a fantastic opportunity to develop your career within a dynamic and progressive environment. If you are an Umbraco developer and interested in this opportunity please send your updated CV ASAP for immediate interview consideration. Please note that no terminology in this advert is intended to discriminate on the grounds of age, and we confirm that we will gladly accept applications from persons of any age for this role

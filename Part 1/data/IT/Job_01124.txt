@@ -1,0 +1,3 @@
+Title: Active Directory / Wintel SME
+Webindex: 66606129
+Description: Active Directory / Wintel SMEAn Active Directory and general Wintel SME required for a number of inflight projects to include an Active Directory Upgrade for **** to ****R**** Corporate Wireless Implementation, QIP replacement.Required Skills/Experience: ****; Active Directory ****; PKI experience Ideally 5 years ****; Disaster recovery ****; Networks ****; Venders ****; Good client facing ****; Good documentation skillsDesirable Skills/Experience: ****; Awareness of ITIL toolsets e.g. ITSM, procurement.

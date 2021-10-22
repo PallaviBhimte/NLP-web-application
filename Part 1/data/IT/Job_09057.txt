@@ -1,0 +1,4 @@
+Title: Selenium Tester
+Webindex: 70248694
+Company: Vertical IT Limited
+Description: Selenium RC Tester Brighton  Selenium/JMeter ****/****k A Selenium Tester is required for an exciting growing organisation who are based in Brighton. They are looking for a Selenium RC Tester who experience with JMeter and a background with automation testing. The Selenium Tester will have: Current Selenium RC experience Experience using JMeter Experience automating existing test scenarios within framework Be able to build SQL queries to validate data As a Selenium RC Tester with JMeter experience, please send your CV for immediate consideration to Sasha Wickham.

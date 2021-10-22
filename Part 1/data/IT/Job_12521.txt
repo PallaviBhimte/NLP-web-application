@@ -1,0 +1,4 @@
+Title: SQL Server DBA  Healthcare
+Webindex: 71951930
+Company: Biaars
+Description: A SQL Server DBA is required to assist on 'greenfield' projects where you will be designing databases structures, importing new datasets and creating ongoing maintenance routines. For the SQL Server DBA role it is essential that you have experience of Microsoft SQL Server up to ****/2012. You should be comfortable designing database structures and writing the SSIS packages to load up and maintain the data. Ideally you will have a background of working in the NHS or similar field and some knowledge of clinical datasets. Any certifications in MS SQL Server would be highly beneficial. For more details on the SQL Server DBA role and a full job description please apply for immediate consideration. BIAARS is an equal opportunities employer and acts as both an employment agency and employment business.

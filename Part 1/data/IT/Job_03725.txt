@@ -1,0 +1,4 @@
+Title: PHP Developer with MySQL and Oracle PLSQL experience
+Webindex: 68495333
+Company: Ready4Operations Pvt Ltd
+Description: Our well known software development house are currently looking to take aboard developers with broad range of skills for multiple roles that they have currently. We are looking for developers with minimum 5 years of experience on the following areas: Hands on good knowledge of PHP 5 with MySQL on Unix/Linux environment. Good JavaScript, JQuery and related technologies along with strong HTML5 Hands on development experience with Oracle PL/SQL. You will be working with a team of professionals handling API/Web Platform development for CMS and various Tool Kits and developing deployment tools for the customers. Roles are based in Milton Keynes. Please send Word format CVs only.

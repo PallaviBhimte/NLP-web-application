@@ -1,0 +1,4 @@
+Title: SQL MIgration Support and Development
+Webindex: 66981435
+Company: Redrock Consulting
+Description: Migration from a Legacy ****GL to SQL Server requires a candidate skilled with SQL Server, SSRS and development knowledge (ASP/Access/VBA/.Net). Application and Server Migration, Support, Development and general programming understanding, continuity, DR etc.

@@ -1,0 +1,4 @@
+Title: NET Developer  Clientfacing
+Webindex: 70677182
+Company: DawsonHill Limited T/A BIAARS
+Description: .NET Developer  Clientfacing in Edinburgh My client is a Business Intelligence Consultancy based in Edinburgh and is looking for a capable .NET Developer to join their team in a clientfacing role. The ideal .NET Developer candidate should have good experience with ASP.NET Development with MVC architecture. Any experience with DI/IoC frameworks such as Spring would also be beneficial, as would strong skills in jQuery and app development. As this is a clientfacing role you should be an enthusiastic worker with excellent communication skills as you will be dealing with the client directly on behalf of the consultancy. Any previous experience as a consultant in any capacity would be very useful. To be considered for the .NET Developer role you must be fully eligible to work in the UK as my client is unable to sponsor Visas at this time.

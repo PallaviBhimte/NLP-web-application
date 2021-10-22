@@ -1,0 +1,4 @@
+Title: Lead C++ Developer/Systems Test Engineer
+Webindex: 66921897
+Company: Innovate Recruitment Ltd
+Description: Our market leading technology client requires a unique blend of C++ Development skills and Software Testing experience for this challenging newly created job role. The successful applicant will possess extensive experience of the following: C++ Development (embedded systems/device level) ideally cross platform; Windows/Unix Software/Systems Testing including Engineering level testing of devices software Automated testing strategy and tools development Software build and configuration for test releases. Testdriven development Linux shell scripting This really is a unique a challenging role enabling only the most skilled Software professionals the chance to test their full life cycle Software Development and Software Test experience

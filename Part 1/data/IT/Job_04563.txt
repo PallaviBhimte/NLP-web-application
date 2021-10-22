@@ -1,0 +1,4 @@
+Title: SharePoint Engineer
+Webindex: 68636685
+Company: CVbrowser
+Description: A SharePoint Engineer / Specialist is required for a 3 month contract (likely to be extended) based in Sheffield. Working for a large well established organisation, you will be providing specialist SharePoint support including the installation and configuration of Microsoft SharePoint 2010. This will include Workflow configuration, Content Publication, Authentication Email and Multitier Models. For this role you need to have previous experience of working on SharePoint projects including installation, configuration and migrations with technical skills of Windows 2008 operating systems and an understanding of Networking and SQL technologies. This position is to start ASAP and will between

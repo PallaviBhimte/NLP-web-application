@@ -1,0 +1,4 @@
+Title: Lead SQL Server DBA  ETL, SSIS, SSRS, SSAS, MDX, BI
+Webindex: 69572132
+Company: Prime Recruitment
+Description: SQL Server DBA, BI Development, ETL, OLPA, MDX This is an exciting opportunity to join this expanding and highly successful market leading organisation. You will be responsible for project delivery across the Data team covering SQL DBA work and BI development. You will deal with regular meeting to stakeholders, create and plan work, manage development tasks, provide business continuity across the SQL Server environment, produce technical documentation, provide DBA support and deliver solutions using SSIS, SSRS and SSAS. This role is well suited to someone with a broad range of SQL Server DBA and development technical skills such has TSQL, ETL, OLAP, MDX. Please call to discuss the position further.

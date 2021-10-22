@@ -1,0 +1,4 @@
+Title: Software Build Engineer
+Webindex: 51125231
+Company: Indigo 21 Ltd
+Description: We are currently looking for an experienced Software Build and Configuration Engineer to join a successful Technology company based in Cambridge. You must be able to: Oversee Software Builds including configuration Maintain and develop Software Builds Automation Maintain source codes in VCS. Requirements: Experience in the following is a must: o Multi platform software builds automation o CVS and mercurial (Hg) o Finalbuilder o Installshield o Mono Experience in supporting device drivers is a plus. This is an opportunity for you to build and progress your career in a successful Technology company. If you are who they are looking for, send your CV now

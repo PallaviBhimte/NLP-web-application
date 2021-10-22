@@ -1,0 +1,4 @@
+Title: PHP/MySQL Web Developer
+Webindex: 68839307
+Company: Extech 2000 Recruitment Limited
+Description: Systems house well established in desktop and infrasture planning and implementation are moving into an additional marketplace. ****k  ****k They have developed a new contact management system and need an experienced PHP and MySQL developer to build additional features for clients to expand current capabilities and functionalities. As a PHP Web Developer you must be capable and motivated and have credibility in front of clients. Familiarity in open source software and Joomla. Good opportunity to build a name for yourself within this team of talented individuals. Would suit a graduate with about a year's commercial experience or an experienced web developer with PHP and MySQL.

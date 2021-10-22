@@ -1,0 +1,4 @@
+Title: MySQL Database Developer
+Webindex: 71774343
+Company: Lynx Recruitment Ltd
+Description: MySQL Database Developer Experienced MySQL Database Developer required for a prestigious Digital client in Central London. You will be the source for database schema design and SQL. Assist the systems operation team when necessary to support the live databases. Drive the use of noSQL databases as additional storage. Help to optimise existing SQL used in production to support scaling and performance, participate in the analysis of data using the database and Hadoop. For this role you will require, excellent knowledge and experience with MySQL. Knowledge of the Linux command line and Apache. Experience and knowledge of MySQL administration, Experience with replication and clustering and experience of working with XML and knowledge of XSD. It will be beneficial to have experience with Python or PHP frameworks as well as experience with Hadoop or other analysis of big data.

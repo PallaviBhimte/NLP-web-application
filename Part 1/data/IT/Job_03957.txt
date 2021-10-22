@@ -1,0 +1,4 @@
+Title: Systems Engineer (Windows / Redhat)
+Webindex: 68545085
+Company: Vertical IT
+Description: Systems Engineer (MCITP or MCSE / Redhat) Merseyside based Retailer is seeking an experienced Systems Engineer to provide technical support, administration and deployment of business IT Systems, which will include evaluating, testing and monitoring of internal systems. You will provide 2nd / 3rd Line support and administration to Windows 2008 Domain and Redhat operating systems as well as complete ownership of problems and issues within the infrastructure estate. Microsoft MCITP or MCSE in either Windows 2003 or Windows 2008 or Windows 2012, working within the ITIL framework with excellent knowledge of Windows server platform and Red Hat Linux administration.

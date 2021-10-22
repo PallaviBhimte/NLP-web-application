@@ -1,0 +1,4 @@
+Title: 2nd Shift Unix/Linux Support Administrator (Weekdays)
+Webindex: 67362361
+Company: Request Technology Stephanie Baker
+Description: 2nd shift  4.00 PM to 12.00AM (Weekdays) Prestigious Fortune **** enterprise firm seeks a talented Unix/Sun Solaris Engineer to work 2nd shift at their Northbrook, IL NOC. The UNIX operation teams' major responsibility is to provide **** X **** support for Operating System/Hardware issues occurring in the UNIX platform. This is an entry level UNIX administration role in which the candidate will work Incident queues and perform routine changes. Responsibilities: Providing break fix support for the Solaris and Linux Operating system environment. The candidate must be self motivated and be open to working in an ever changing environment. Qualifications: Basic Solaris or Linux knowledge Microsoft Office (Word,Excel,Visio,Project) College Degree: Computer Science or equivalent

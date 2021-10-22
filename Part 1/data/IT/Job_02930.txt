@@ -1,0 +1,4 @@
+Title: IT / Network / System / Infrastructure Engineer
+Webindex: 68347002
+Company: CSL DualCom Ltd
+Description: CSL DualCom are the UK market leader for dual signalling systems trusted in hundreds of thousands of security installations. DualCom reduces the total cost of signalling for the entire security chain; keyholder, installer and ARC. The candidate will be qualified CCNA or CCNP (Cisco) and Microsoft Certified IT Professional (MCITP) or MCSE. The role requires a flexible approach and a team player attitude. The candidate should have the ability to communicate technical data across all levels. MS SQL Administrator ****/**** Documentation of all systems and setting up process and updating existing documents/processes. Network Security and RSA logging. Virtualisation VMware Symantec Backup PlateSpin Windows Server ****/**** Windows 7/**** Cisco Firwall and Routers VPN and IPSEC experience X**** Paknet experience Nagios Monitoring HP Hardware HDS SAN

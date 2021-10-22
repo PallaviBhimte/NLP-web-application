@@ -1,0 +1,4 @@
+Title: Oracle BI Developer Leicester
+Webindex: 68626297
+Company: iKonnect
+Description: Oracle; DAC; INFORMATICA; DEVELOPER; OBIEE; My client is currently looking for a Oracle BI Consultant/Developer to come on board and help support their existing OBIEE suite as well as developing and implementing future Business Intelligence requirements. The successful candidate will be responsible for problem identification, requirements gathering as well as the design, testing and development of the system. The successful candidate should have proven Oracle Business Intelligence experience, and be comfortable with:  Creating and modifying mappings in Informatica  Modelling data sources in BI Admin tool  Building DAC execution plans  Working well within a team  Work well under pressure This is a fantastic opportunity to work on a very interesting project and to work in a team that that is constantly looking to improve the systems they are working with.

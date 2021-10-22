@@ -1,0 +1,4 @@
+Title: Java Software Engineer
+Webindex: 68628613
+Company: IT Connections Ltd
+Description: Java Software Engineer role within this leader in finance and business consulting. This is a great opportunity for a graduate with ****5 years commercial experience to join an experienced Java development team. You will liaise with business analysts in gathering client requirements and work through the complete development life cycle gaining design skills along the way. You will have gained experience ideally on Ecommerce web sites using skills such as Java, J2EE, JMS, Swing, Hibernate etc.

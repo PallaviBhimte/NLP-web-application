@@ -1,0 +1,4 @@
+Title: Senior C ASPNET Web Applications Developer
+Webindex: 68356635
+Company: Positive Selection
+Description: Require extensive experience of delivering web applications which are .NET based utilising C and ASP.NET together with solid Back End experience in SQL Server. A Strong technical background with previous commercial experience building and deploying enterprise level web applications using C are essential as the successful candidate will work on high profile projects with household names. The candidate needs to be able to demonstrate experience of leading and managing a development project. Main skills and experience are required within a Microsoft development environment using C, ASP.NET **** **** and **** Jquery,SQL Server 2005/****

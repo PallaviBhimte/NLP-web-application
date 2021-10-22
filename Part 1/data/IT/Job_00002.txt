@@ -1,0 +1,4 @@
+Title: Senior PHP Developer
+Webindex: 27527050
+Company: Indigo 21 Ltd
+Description: A skilled Senior PHP Developer is required by a leading provider of webbased services and clinical management software based in Central London. The role will involve working with a software architect to develop the company s core products and take over the lead development of these systems. Essential Requirements: Minimum of **** years experience in PHP Development Expertise in PHP **** and MySQL 5 Fluency in OOP Experience in Linux and Apache, Web services, multiserver platforms and cloud computing Experience in Windows/IIS PHP deployments, jQuery, Prototype and XML is desirable. If you are someone who d like to take on a new challenge, send your CV now

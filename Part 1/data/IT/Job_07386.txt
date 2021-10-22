@@ -1,0 +1,4 @@
+Title: VB6 SQL ASP developer
+Webindex: 69250101
+Company: Oldbury Howard Ltd
+Description: Developer, Senior Developer Location  Leeds Rate 200 a day (Negotiable for the right skills) VB6 SQL ASP Tech lead or senior developer is needed for a 6 months contract based in Leeds. Will have experience in leading **** developers, some onshore and some offshore, based in India. Must have experience of Agile or Scrum or similar mechanisms as well as being proficient with SOA standards. Must be still be hands on developer as will need to code as well as ensuring the software delivered meets the agreed quality standards. Skills VB6, MSSQL SERVER 2000  **** Classic ASP, COM, MTS, MSMQ, JIRA, Subversion, CCNet, VSS

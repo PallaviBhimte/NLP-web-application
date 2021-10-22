@@ -1,0 +1,4 @@
+Title: MySQL DBA (Clustering) London Contract
+Webindex: 66772775
+Company: Monarch Recruitment
+Description: MySQL DBA (Clustering) – London – Contract – 6 months My client requires an experienced MySQL DBA for an initial 6 month contract based in London. The successful candidate will have 5 years of MySQL Databases and experience of migrating and upgrading Single databases to a MySQL clustered environment using Oracle Clusterware. You must have previously designed redundant databases and also replication of databases Key Skills  MySQL Databases  Experience of migrating databases to a MySQL clustered environment  Oracle Clusterware  Linux Redhat  Voip  Apache (beneficial) MySQL, Clusterware, Linux, VOIP

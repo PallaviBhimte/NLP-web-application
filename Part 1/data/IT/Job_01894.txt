@@ -1,0 +1,4 @@
+Title: Software Engineer, Embedded C, C++, CAN
+Webindex: 67652321
+Company: re m
+Description: Software Engineer C, C and Embedded Firmware experience You will work as part of the product development team responsible for advanced software coding A background in industrial / manufacturing development across full software lifecycle familiar with Freescale DSP although other hardware architectures useful Embedded Real Time Operating Systems  ideally uCos Experience of CAN Bus, RS**** USB, Ethernet(TCP/IP) and JTAG (Debugging) Strong C coding skills on embedded platforms Windows based development tools e.g. CodeWarrior Configuration Control (Subversion) Graduate calibre, capable of working with minimum supervision Preferred additional Skills Object Oriented Programming, ideally .NET C SQL Server Experience in Visual Studio

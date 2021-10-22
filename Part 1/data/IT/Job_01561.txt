@@ -1,0 +1,4 @@
+Title: Build Manager
+Webindex: 66942689
+Company: Experis IT
+Description: Build and Configuration Manager position within a FTSE 500 company based in London. You will be responsible for coordinating platform level activities and Software configuration. A background in Programming / Scripting / Visual Basic will be a strong advantage for the role. Excellent benefits and bonus package. Working alongside other Environment Build leads you will be responsible for;Ensuring the build meets the accepted criteriaDevelop and implement SCM plan ensuring standards are metOwn and develop a combined Environment and Application development planDesign and develop testing criteria for pre production and production environmentsExcellent Stakeholder relations Please apply to find out more details.

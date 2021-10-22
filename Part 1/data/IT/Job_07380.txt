@@ -1,0 +1,4 @@
+Title: Senior Systems Enginner
+Webindex: 69250055
+Company: Scott Merrick LLP
+Description: My client a global leader in the media industry, based in London are looking for a Senior Systems Engineer with a broad range of infrastructure experience. Candidates must have strong Microsoft IIS SCOM experience and should also have experience patching and working with webservers. KEY SKILLS:  Microsoft IIS  SCOM  Microsoft Active Directory (Multidomain)  Proven experience of general infrastructure in medium / large scale enterprise environments  VMWare ESX **** vSphere 4  Microsoft SQL Server 2005

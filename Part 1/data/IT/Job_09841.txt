@@ -1,0 +1,4 @@
+Title: Senior Net Software Engineer
+Webindex: 70782174
+Company: Redrock Consulting Ltd
+Description: We require a Senior Software Engineer with a solid grounding in Microsoft .Net ( **** ) including C and MVC with strong OO design skills and an understanding of design patterns and their practical implementation. You will be able to demonstrate experience with multithreaded and distributed systems and will have unit testing skills alongside SQL ( T SQL ) and Microsft SQL Server. In addition Javascript, JQuery and Ajax skills and at the top end of the salary scale full stack development skills with the ability to architect, design and develop large, scalable enterprise systems would be a requirement. Working within an agile development team within the Business Product Development team you will be expected to develop innovative solutions to a very high quality. This job was originally posted as www.cwjobs.co.uk/JobSeeking/SeniorNetSoftwareEngineer_job****

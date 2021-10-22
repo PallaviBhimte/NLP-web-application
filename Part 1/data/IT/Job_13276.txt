@@ -1,0 +1,4 @@
+Title: SQL Server DBA  Gloucester or Birmingham
+Webindex: 72300602
+Company: MBN Recruitment Solutions Ltd darrel
+Description: Role Profile: &middot SQL Server Database administration including performance tuning &middot Centralisation of data from the numerous databases across the business &middot Support of the data warehouse processes: Database maintenance, administration, security in line with company policies and rules &middot Carrying out adhoc requests in raw SQL Required Skills / Experience: &middot Experienced SQL DBA Desirable: &middot SQL Server 2005 &ndash TSQL &ndash experience of SQL**** as advantage &middot Experience in data warehouse and database design &middot Experience in ETL Processes (SSIS) &middot Understanding of OLAP/OLTP objects. PLEASE APPLY NOW

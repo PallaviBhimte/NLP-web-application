@@ -1,0 +1,4 @@
+Title: EPOS Systems Consultant
+Webindex: 68799852
+Company: Logix IT 
+Description: EPOS Systems Manager/Consultant with PCI DS Technical experience is required for our retail client who is currently undertaking an EPOS upgrade implementation project. You need 23 years experience of EPOS and Payment Gateways and a thorough understanding of Payment Process Regulation across the UK and Europe. The role broadly splits into two aspects, the first being supporting and providing expert knowledge to the business for all related EPOS, Chip and Pin, regulation and troubleshooting technical issues and security. The second responsibility is to provide strategic input and direction for corporate PCI DSS compliance standards and security within the business and designing and implementing a PCI/EPOS strategy road map.

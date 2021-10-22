@@ -1,0 +1,4 @@
+Title: Linux Systems Administrator (Linux/Network/Security/Firewall/Bradford/
+Webindex: 68628662
+Company: AMsource Technology Limited
+Description: Linux/Network/Security/Firewall/Bradford/Leeds/Skipton We require an experienced Linux Systems Administrator with strong networking skills for our security firm based in Bradford, West Yorkshire . You will be joining a very driven, compact team to assist in the maintenance, support and project delivery for the organisation. The offices are based in Bradford, West Yorkshire commutable from Leeds/Harrogate/Skipton etc . The ideal candidate will have **** experience in Linux administration , network security ( Firewalls) and Shell Scripting. Required skills: Linux administration Network (TCP/IP, DNS, DHCP) Security Firewall knowledge Apache/MySQL This is a good opportunity to make a real difference and to add value to a small team. It will add experience to your CV and give you access to new technologies.

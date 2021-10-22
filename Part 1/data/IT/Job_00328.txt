@@ -1,0 +1,4 @@
+Title: Senior Software Engineer  C++, Cnet  Herts
+Webindex: 62124767
+Company: Lynx Recruitment Ltd
+Description: Senior Software Engineer required for a prestigious company in Hertfordshire. In this role you will develop, select and maintain software solutions for the new and existing product range. To be considered you must have **** or more years? experience in C++. C .net including winforms, MFC, with demonstrable experience in WPF. User Interface design with a working knowledge of MVVM design pattern It will be beneficial to have experience in image processing, graphics card processing or Machine integration experience.

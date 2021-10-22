@@ -1,0 +1,4 @@
+Title: PostgreSQL DBA
+Webindex: 62119837
+Company: Forest Personnel
+Description: Opensource consultancy seeks PostgreSQL DBA must understand scalability, resilience, replication and planning for disaster recovery. Must also have some skills with Oracle as well. All suitably experienced candidates will be called to discuss the role in depth. 95.30 Mon to friday role near public transport and with 28 days holidays plus time to visit OSS conferences etc. postgresql postgressql postgres sql surrey west london m3

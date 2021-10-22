@@ -1,0 +1,4 @@
+Title: VMWare/Windows Engineer
+Webindex: 69557096
+Company: Request Technology Robyn Honquest
+Description: VMWare/Windows Engineer Salary: ****K Looking for an experienced VMWare/Windows Engineer that can work in a environment of **** total Servers. They are 50% VMWare on top of Windows. Must have strong Windows, AD skills. Will be the primary on VMWare, however it will help out in Windows 2003, **** **** cluster. Ideal candidate will have some SAN NAS Replication and backup. They have HDS and Netbackup, VMWare, VSphere **** and going 5 capacity Cloud Director configuration, installation, administration, management, performance tuning, customization. Must come from a large enterprise environment. Several ****'s of VMWares. QUALIFICATIONS: 5 years VMWare, VSphere **** SAN/NAS Cloud Windows 2008

@@ -1,0 +1,4 @@
+Title: Environment Build Analyst
+Webindex: 71305614
+Company: RDF Resources
+Description: Environment Build Analyst required for six month contract based in Newcastle. The Environment Build Analyst will work as part of a team of Unix trained technicians. The role will involve the build and commission of various technical environments using predefined build instructions provided by a third party. To be considered for this role you will have a strong technical background in Unix (IBM AIX) and Red Hat Linux. You will also have experience in scripting, installing and configuring software packages (Websphere, Weblogic, JBoss, Informatica, Siebel). This job was originally posted as www.cwjobs.co.uk/JobSeeking/EnvironmentBuildAnalyst_job****

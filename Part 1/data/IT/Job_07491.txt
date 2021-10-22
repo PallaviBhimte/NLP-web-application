@@ -1,0 +1,4 @@
+Title: Infrastructure Engineer (Microsoft Servers, SCCM and SCOM)
+Webindex: 69268292
+Company: Altura Solutions Ltd
+Description: Altura Solutions are recruiting for a Senior Infrastructure Engineer / Consultant to work for a prestigious client based in Bedfordshire. Candidates must have experience of building and maintaining web and enterprise services in a multiplatform environment. Knowledge of application and web server configuration, management and automated deployment. Candidates must have excellent handson experience of Microsoft Server Operating Systems, IIS, Active Directory, DNS, DHCP, SCCM and SCOM. Candidates will be required to have experience of server virtualisation (VMWare, Citrix and HyperV), whilst being able to demonstrate experience of programming / scripting in VBscript and PowerShell. Please submit CV s for immediate Consideration.

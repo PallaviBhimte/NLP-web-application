@@ -1,0 +1,4 @@
+Title: C++ Developer  Contract
+Webindex: 68361251
+Company: BARCLAY ANDERSON LIMITED
+Description: C++ Developer  Rate  Negotiable  Birmingham  2 weeks Contract – could be further contracts. ROLE: The client requires someone to build an application in C++ to populate one spreadsheet  for a Wine Ordering System  the data comes from external websites via customers – the application will create CSV files that then upload to a SQL Server database. TECHNICAL SKILLS: C++ Software Application Development experience Keywords: C++, Contract, Birmingham, West Midlands This job was originally posted as www.cwjobs.co.uk/JobSeeking/C++DeveloperContract_job****

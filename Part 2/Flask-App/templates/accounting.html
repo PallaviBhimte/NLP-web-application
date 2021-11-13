@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block links %}
+<a href="/login">Login</a>
+{% endblock %} 
+
+{% block body %}
+
+<div class="jumbotron jumbotron-accounts text-center">
+  <h1 style="color:rgb(0, 0, 0);"> <b> Accounting Finance </b></h1>   
+</div>
+
+<div id="main" class="p-top-100 content-container">
+    <div id="content">
+        <div id="category">
+            <div class="job-container">
+                <h3><a id="link-1" href="#"> </a></h3>
+                <p id="data-embed-1"> </p>
+            </div>
+
+            <div class="job-container">
+                <h3><a id="link-2" href="#"> </a></h3>
+                <p id="data-embed-2"> </p>
+            </div>
+
+            <div class="job-container">
+                <h3><a id="link-3" href="#"> </a></h3>
+                <p id="data-embed-3"> </p>
+            </div>
+
+            <div class="job-container">
+              <h3><a id="link-4" href="#"> </a></h3>
+              <p id="data-embed-4"> </p>
+            </div>
+
+            <div class="job-container">
+              <h3><a id="link-5" href="#"> </a></h3>
+              <p id="data-embed-5"> </p>
+            </div>
+        </div>
+
+    </div>
+</div>
+{% endblock %}
+
+{% block script %}
+<script>
+  $(document).ready(function (){
+
+    $.each([
+    "{{ url_for('article', folder='Accounting_Finance', filename='Job_22569') }}",
+    "{{ url_for('article', folder='Accounting_Finance', filename='Job_22570') }}",
+    "{{ url_for('article', folder='Accounting_Finance', filename='Job_22575') }}",
+    "{{ url_for('article', folder='Accounting_Finance', filename='Job_22610') }}",
+    "{{ url_for('article', folder='Accounting_Finance', filename='Job_22647') }}",
+    ], function(i, a){
+      $.get(a, function(data){
+
+        var shortened = $(data).find('#data-content').text().substring(0, 800);
+        var title = $(data).find('#data-title').text();
+
+        // Embed data into the homepage
+        $("#data-embed-" + String(i+1)).text(shortened + '...');
+        $("#link-" + String(i+1)).text(title);
+      });
+      $("#link-" + String(i+1)).attr("href", a)
+    });    
+  });
+</script>
+{% endblock %}

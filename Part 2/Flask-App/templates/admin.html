@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block links %}
+<a href="/logout">Logout</a>
+{% endblock %} 
+
+{% block body %}
+
+<form action = "/admin" method = "POST" class="p-top-100">
+    <div class="box-admin">
+        <div class="login-welcome">
+            <h3>Categorise & Save Job</h3>
+            <p>Enter your job details.</p>
+        </div>
+        
+        <div>
+            <p>Title:</p>
+            <p><input type = "text" name = "title" style="width:100%" value="{{ title }}" required/></p>
+        </div>
+
+        <div>
+            <p>Description:</p>
+            <p><textarea type="text" name="description" style="height:200px; width:100%" required> {{ description }} </textarea></p>
+        </div>
+
+        <div>
+            <p>Recommended Category:</p>
+            <p><input type="text" name="category" value="{{ prediction }}"></p>
+        </div>
+        
+        <div>
+            <input type="submit" name="button" value="Classify" class="job-details-btn"/>
+            <input type="submit" name="button" value="Save" class="job-details-btn">
+        </div>
+        <p style="color:red"> {{ category_flag }} </p>
+
+        
+    </div>
+ </form> 
+
+
+{% endblock %}
+
+{% block script %}
+
+{% endblock %}
+

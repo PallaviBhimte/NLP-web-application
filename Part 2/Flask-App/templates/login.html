@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+
+{% block body %}
+
+<form action = "/login" method = "POST" class="p-top-100">  
+    <div class="sign-in-wrapper">
+
+        <div class="login-welcome">
+            <h3>Welcome</h3>
+            <p>Login with your username and password to access the admin panel.</p>
+        </div>
+        
+        <div class="login-panel main-wrapper">
+            <label for="uname"><b>Username</b></label>
+            <input class="login-fields" type="text" placeholder="Enter Username" name="username" required>
+        
+            <label for="psw"><b>Password</b></label>
+            <input class="login-fields" type="password" placeholder="Enter Password" name="password" required>
+                
+            <button class="login-btn" type="submit">Login</button>
+            
+        </div>
+    
+     
+    </div>
+
+    
+    <p> {{ login_message }} </p>
+    
+ </form> 
+
+
+{% endblock %}
+

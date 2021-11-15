@@ -1,0 +1,905 @@
+{% extends "base.html" %}
+
+<!-- {% block links %}
+    <a href="/login">Login</a>
+    {% endblock %}  -->
+    
+    
+    {% block body %}
+    
+    
+    <div class="jumbotron jumbotron-home text-center">
+
+        <h1 style="color:rgb(0, 0, 0);"> <b> DigiEmploy</b></h1> 
+        <p style="color:rgb(6, 46, 56)">Come for the job… stay for the challenge</p>
+        <div style="float:center;text-align:center">
+            <form action="/search" method="POST">
+                <input type="text" name="searchword" class="field search-box" />
+                <input type="submit" name="search" value="Search" class="submit search-btn" />
+            </form>
+        </div>
+        
+    </div>
+    
+    <div class="container-fluid text-center bg-grey">
+        <h2>Job Categories</h2><br>
+        <!-- <h4>What we have created</h4> -->
+        <!-- <div class="">
+            <div class="col-sm-3">
+                <a href="/accounting"> Accounting Finance </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="/engineering"> Engineering </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="/healthcare"> Healthcare Nursing </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="/hospitality"> Hospitality Catering </a> 
+            </div>
+            
+            <div class="col-sm-3">
+                <a href="/it"> IT </a> 
+            </div>
+            <a href="/advertising"> PR Adveritising Marketing </a>
+            <div class="col-sm-3">
+                <a href="/sales"> Sales </a>
+            </div>
+            <div class="col-sm-3">
+                <a href="/teaching"> Teaching </a>
+            </div>
+            
+            
+        </div> -->
+  
+        
+        <div class="card-deck">
+            <div class="card card-container">
+                <a href="/accounting">
+                    <img class="card-img-top" src="../static/images/accounting.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Accounting Finance </h5>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="card card-container">
+                <a href="/engineering">
+                    <img class="card-img-top" src="../static/images/engineering.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Engineering </h5>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="card card-container">
+                <a href="/healthcare">
+                    <img class="card-img-top" src="../static/images/healthcare-nursing.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Healthcare Nursing  </h5>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="card card-container">
+                <a href="/hospitality">
+                    <img class="card-img-top" src="../static/images/hospitality.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Hospitality Catering </h5>
+                    </div>
+                </a>
+            </div> 
+        </div>
+        
+        
+        <div class="card-deck p-top-50">
+            <div class="card card-container">
+                <a href="/it">
+                    <img class="card-img-top" src="../static/images/it.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> IT </h5>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="card card-container">
+                <a href="/advertising">
+                    <img class="card-img-top" src="../static/images/pr-advertising-marketing.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> PR Adveritising Marketing </h5>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="card card-container">
+                <a href="/sales">
+                    <img class="card-img-top" src="../static/images/sales.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Sales  </h5>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="card card-container">
+                <a href="/teaching">
+                    <img class="card-img-top" src="../static/images/teaching.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title"> Teaching </h5>
+                    </div>
+                </a>
+            </div> 
+        </div>      
+    </div>
+    
+    
+    <div id="main">
+        <div id="content">
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">Accounting & Finance</h2>
+                    </div>
+                </div>
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-accounting.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-1" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-1"> </p>
+                    </div>
+                    <a href="../Accounting_Finance/Job_22569">
+                        <button class="job-details-btn"> Job Details</button>
+                    </a>
+                    
+                    <a href="#"></a>
+                </article>
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-accounting.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-2" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-2"> </p>
+                    </div>
+                    
+                    <a href="../Accounting_Finance/Job_22570">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                    
+                </article>
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-accounting.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-3" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-3"> </p>
+                    </div>
+                    <a href="../Accounting_Finance/Job_22575">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-accounting.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-4" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-4"> </p>
+                    </div>
+                    <a href="../Accounting_Finance/Job_22610">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-accounting.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-5" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-5"> </p>
+                    </div>
+                    <a href="../Accounting_Finance/Job_22647">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+         
+                <!-- <div>
+                    <h3><a id="link-1" href="#"> </a></h3>
+                    <p id="data-embed-1"> </p>
+                </div>
+
+                
+                <div>
+                    <h3><a id="link-2" href="#"> </a></h3>
+                    <p id="data-embed-2"> </p>
+                </div>
+
+                <div>
+                    <h3><a id="link-3" href="#"> </a></h3>
+                    <p id="data-embed-3"> </p>
+                </div>
+                
+                <div>
+                    <h3><a id="link-4" href="#"> </a></h3>
+                    <p id="data-embed-4"> </p>
+                </div>
+                
+                <div>
+                    <h3><a id="link-5" href="#"> </a></h3>
+                    <p id="data-embed-5"> </p>
+                </div>
+            </div> -->
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job">
+                         <h2 class="cat-heading">Engineering</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">    
+                        <img class="card-img-top" src="../static/images/job-engineering.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-6" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-6"> </p>
+                    </div>
+                    <a href="../Engineering/Job_14367">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-engineering.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-7" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-7"> </p>
+                    </div>
+                    <a href="../Engineering/Job_14378">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-engineering.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-8" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-8"> </p>
+                    </div>
+                    <a href="../Engineering/Job_14383">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-engineering.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-9" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-9"> </p>
+                    </div>
+                    <a href="../Engineering/Job_14524">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-engineering.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-10" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-10"> </p>
+                    </div>
+                    <a href="../Engineering/Job_14529">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+            </div>
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">Healthcare & Nursing</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-healthcare.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-11" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-11"> </p>
+                    </div>
+                    <a href="../Healthcare_Nursing/Job_30062">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-healthcare.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-12" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-12"> </p>
+                    </div>
+                    
+                    <a href="../Healthcare_Nursing/Job_30067">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-healthcare.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-13" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-13"> </p>
+                    </div>
+                    <a href="../Healthcare_Nursing/Job_30084">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-healthcare.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-14" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-14"> </p>
+                    </div>
+                    <a href="../Healthcare_Nursing/Job_30121">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-healthcare.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-15" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-15"> </p>
+                    </div>
+                    <a href="../Healthcare_Nursing/Job_30136">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+            </div>
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">Hospitality & Catering</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-hospitality.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-16" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-16"> </p>
+                    </div>
+                    <a href="../Hospitality_Catering/Job_47939">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-hospitality.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-17" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-17"> </p>
+                    </div>
+                    <a href="../Hospitality_Catering/Job_47952">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-hospitality.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-18" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-18"> </p>
+                    </div>
+                    <a href="../Hospitality_Catering/Job_48009">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-hospitality.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-19" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-19"> </p>
+                    </div>
+                    <a href="../Hospitality_Catering/Job_48391">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-hospitality.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-20" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-20"> </p>
+                    </div>
+                    <a href="../Hospitality_Catering/Job_48413">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+            </div>
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">Information Technology</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-it.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-21" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-21"> </p>
+                    </div>
+                    <a href="../IT/Job_00009">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-it.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-22" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-22"> </p>
+                    </div>
+                    <a href="../IT/Job_00038">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-it.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-23" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-23"> </p>
+                    </div>
+                    <a href="../IT/Job_00047">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-it.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-24" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-24"> </p>
+                    </div>
+                    <a href="../IT/Job_00165">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-it.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-25" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-25"> </p>
+                    </div>
+                    <a href="../IT/Job_00197">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+            </div>
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">PR Advertising & Marketing</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-advertising.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-26" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-26"> </p>
+                    </div>
+                    <a href="../PR_Advertising_Marketing/Job_52702">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-advertising.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-27" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-27"> </p>
+                    </div>
+                    <a href="../PR_Advertising_Marketing/Job_52732">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-advertising.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-28" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-28"> </p>
+                    </div>
+                    <a href="../PR_Advertising_Marketing/Job_52745">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-advertising.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-29" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-29"> </p>
+                    </div>
+                    <a href="../PR_Advertising_Marketing/Job_52762">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-advertising.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-30" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-30"> </p>
+                    </div>
+                    <a href="../PR_Advertising_Marketing/Job_52787">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+            </div>
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">Sales</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-sales.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-31" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-31"> </p>
+                    </div>
+                    <a href="../Sales/Job_38905">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-sales.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-32" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-32"> </p>
+                    </div>
+                    <a href="../Sales/Job_38929">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-sales.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-33" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-33"> </p>
+                    </div>
+                    <a href="../Sales/Job_39012">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-sales.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-34" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-34"> </p>
+                    </div>
+                    <a href="../Sales/Job_39110">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-sales.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-35" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-35"> </p>
+                    </div>
+                    <a href="../Sales/Job_39144">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+            </div>
+            
+            <div id="category">
+                <div class="bar">
+                    <div class="cat-job"> 
+                        <h2 class="cat-heading">Teaching</h2>
+                    </div>
+                </div>
+                
+                
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-teaching.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-36" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-36"> </p>
+                    </div>
+                    <a href="../Teaching/Job_44189">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-teaching.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-37" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-37"> </p>
+                    </div>
+                    <a href="../Teaching/Job_44218">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-teaching.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-38" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-38"> </p>
+                    </div>
+                    <a href="../Teaching/Job_44232">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-teaching.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-39" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-39"> </p>
+                    </div>
+                    <a href="../Teaching/Job_44272">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+
+                <article class="job-card">
+                    <div class="company-logo-img">
+                        <img class="card-img-top" src="../static/images/job-teaching.jpg" alt="Card image cap">
+                    </div>
+                    <div class="job-title">
+                        <h3><a id="link-40" href="#"> </a></h3>
+                    </div>
+                    <div class="job-desc">
+                        <p id="data-embed-40"> </p>
+                    </div>
+                    <a href="../Teaching/Job_44300">
+                        <button class="job-details-btn">Job Details</button>
+                    </a>
+                </article>
+            </div>
+        </div>
+    </div>
+    
+    {% endblock %}
+    
+    {% block script %}
+    <script>
+        $(document).ready(function (){
+            
+            $.each([
+            "{{ url_for('article', folder='Accounting_Finance', filename='Job_22569') }}",
+            "{{ url_for('article', folder='Accounting_Finance', filename='Job_22570') }}",
+            "{{ url_for('article', folder='Accounting_Finance', filename='Job_22575') }}",
+            "{{ url_for('article', folder='Accounting_Finance', filename='Job_22610') }}",
+            "{{ url_for('article', folder='Accounting_Finance', filename='Job_22647') }}",
+            "{{ url_for('article', folder='Engineering', filename='Job_14367') }}",
+            "{{ url_for('article', folder='Engineering', filename='Job_14378') }}",
+            "{{ url_for('article', folder='Engineering', filename='Job_14383') }}",
+            "{{ url_for('article', folder='Engineering', filename='Job_14524') }}",
+            "{{ url_for('article', folder='Engineering', filename='Job_14529') }}",
+            "{{ url_for('article', folder='Healthcare_Nursing', filename='Job_30062') }}",
+            "{{ url_for('article', folder='Healthcare_Nursing', filename='Job_30067') }}",
+            "{{ url_for('article', folder='Healthcare_Nursing', filename='Job_30084') }}",
+            "{{ url_for('article', folder='Healthcare_Nursing', filename='Job_30121') }}",
+            "{{ url_for('article', folder='Healthcare_Nursing', filename='Job_30136') }}",
+            "{{ url_for('article', folder='Hospitality_Catering', filename='Job_47939') }}",
+            "{{ url_for('article', folder='Hospitality_Catering', filename='Job_47952') }}",
+            "{{ url_for('article', folder='Hospitality_Catering', filename='Job_48009') }}",
+            "{{ url_for('article', folder='Hospitality_Catering', filename='Job_48391') }}",
+            "{{ url_for('article', folder='Hospitality_Catering', filename='Job_48413') }}",
+            "{{ url_for('article', folder='IT', filename='Job_00009') }}",
+            "{{ url_for('article', folder='IT', filename='Job_00038') }}",
+            "{{ url_for('article', folder='IT', filename='Job_00047') }}",
+            "{{ url_for('article', folder='IT', filename='Job_00165') }}",
+            "{{ url_for('article', folder='IT', filename='Job_00197') }}",
+            "{{ url_for('article', folder='PR_Advertising_Marketing', filename='Job_52702') }}",
+            "{{ url_for('article', folder='PR_Advertising_Marketing', filename='Job_52732') }}",
+            "{{ url_for('article', folder='PR_Advertising_Marketing', filename='Job_52745') }}",
+            "{{ url_for('article', folder='PR_Advertising_Marketing', filename='Job_52762') }}",
+            "{{ url_for('article', folder='PR_Advertising_Marketing', filename='Job_52787') }}",
+            "{{ url_for('article', folder='Sales', filename='Job_38905') }}",
+            "{{ url_for('article', folder='Sales', filename='Job_38929') }}",
+            "{{ url_for('article', folder='Sales', filename='Job_39012') }}",
+            "{{ url_for('article', folder='Sales', filename='Job_39110') }}",
+            "{{ url_for('article', folder='Sales', filename='Job_39144') }}",
+            "{{ url_for('article', folder='Teaching', filename='Job_44189') }}",
+            "{{ url_for('article', folder='Teaching', filename='Job_44218') }}",
+            "{{ url_for('article', folder='Teaching', filename='Job_44232') }}",
+            "{{ url_for('article', folder='Teaching', filename='Job_44272') }}",
+            "{{ url_for('article', folder='Teaching', filename='Job_44300') }}",
+            ], function(i, a){
+                $.get(a, function(data){
+                    
+                    var shortened = $(data).find('#data-content').text().substring(0, 400);
+                    var title = $(data).find('#data-title').text();
+                    
+                    // Embed data into the homepage
+                    $("#data-embed-" + String(i+1)).text(shortened + '...');
+                    $("#link-" + String(i+1)).text(title);
+                });
+                $("#link-" + String(i+1)).attr("href", a)
+            });    
+        });
+    </script>
+    {% endblock %}
+    
+    
